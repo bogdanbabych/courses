@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: Home
+nav_order: 1
+description: "Homepage"
+permalink: /
+---
 
-You can use the [editor on GitHub](https://github.com/bogdanbabych/courses/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Department of Translation, Communication and Technology
+### Institute for Translation and Interpreting, Heidelberg University
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Home](index.md) | [Teaching](teaching.md) | [Research](research.md) | [Collaboration](collaboration.md) | [Techologies](techlabs.md) | [![Image](de_l_flag.png)](de_index.html) [![Image](uk_l_flag.png)](uk_index.html)
 
-### Markdown
+### Winter Semester 2020-2021
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Under construction
 
-```markdown
-Syntax highlighted code block
+### Pageview statistics on ClustMaps
 
-# Header 1
-## Header 2
-### Header 3
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ADgDCFeVJWZz_YCTkOkXJb16UfJT099A6BMMolPyg1o&cl=ffffff&w=a">
+</script>
 
-- Bulleted
-- List
+#### Webpage in other languages
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bogdanbabych/courses/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Image](en_l_flag.png) en [![Image](de_l_flag.png)](de_index.html) [de](de_index.md) [![Image](uk_l_flag.png)](uk_index.html) [uk](uk_index.md)
