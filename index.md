@@ -11,14 +11,14 @@ permalink: /
 
 [Home](index.md) | [Teaching](teaching.md) | [Research](research.md) | [Collaboration](collaboration.md) | [Techologies](techlabs.md) | [![Image](de_l_flag.png)](de_index.html) [![Image](uk_l_flag.png)](uk_index.html)
 
-### Winter Semester 2020-2021
+#### Winter Semester 2020-2021
 
-#### Course materials
+#### Courses
 1. [**0945MUE8202 Research colloquium: research for MA Thesis, MA colloquium, 3rd semester**](D2020-21-W/d11m3-0945MUE8202_Research_colloquium.md) Forschungskolloquium MA, 3rd Sem, 3 Credit Points, Research colloquium, Mon 10:15 to 11:45;
 - [*Materials*](D2020-21-W/d11m3-0945MUE8202_Research_colloquium.md)
 - [*LSF*](https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=323377&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
 - [*Course description*](teach2020-21-WS.md#0945MUE8202)
-2. [**0945BUT02202 Technical foundations of professional translation: BA practical, 1st semester**](D2020-21-W/12b1-0945BUT02202_Technical_foundations.md)  Medientechnische Grundlagen der Fachübersetzung, BA, 1st Sem, 2 Credit Points, Practice class, Mon.	12:15 to 13:45;
+2. [**0945BUT02202 Technical foundations of professional translation: BA practical, 1st semester**](D2020-21-W/d12b1-0945BUT02202_Technical_foundations.md) Medientechnische Grundlagen der Fachübersetzung, BA, 1st Sem, 2 Credit Points, Practice class, Mon.	12:15 to 13:45;
 - [*Materials*](D2020-21-W/d12b1-0945BUT02202_Technical_foundations.md)
 - [*LSF*](https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=323831&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
 - [*Course description*](teach2020-21-WS.md#0945BUT02202)
