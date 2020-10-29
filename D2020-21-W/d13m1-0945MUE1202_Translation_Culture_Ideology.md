@@ -3,7 +3,7 @@
 #### 0945MUE1202 Translation and Culture - Ideology, evaluative language and intervention in translation
 - MA main seminar, 1st semester  Translations- und Kulturwissenschaft I, MA, 1st Sem, 6 Credit Points, Main Seminar, Mon.	14:15 to 15:45;
 - [*LSF*](https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=323890&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
-- [*Course description*](teach2020-21-WS.md#0945MUE1202)
+- [*Course description*](/teach2020-21-WS.md#0945MUE1202)
 
 ##### Course materials
 

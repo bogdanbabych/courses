@@ -3,8 +3,8 @@
 #### LSF 330838 Translation Technologies
 - MA main seminar, 1st or 3rd semester Translations- und Kulturwissenschaft I und II: Translation Technologies, MA, 1st Sem *or* 3rd Sem, 6 Credit Points, Main seminar, Tue.	13:15 to 14:45
 - [*LSF*](https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=330838&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)  
-- [*Course description*](teach2020-21-WS.md#LSF330838)
-- [*Course syllabus*](teach2020-21-WS.md#LSF330838syllabus)
+- [*Course description*](/teach2020-21-WS.md#LSF330838)
+- [*Course syllabus*](/teach2020-21-WS.md#LSF330838syllabus)
   : This on-line English language course is offered to students of Universität Heidelberg, partner universities of our [4EU+ Alliance](https://4euplus.eu/4EU-1.html) and partners of our [Cooperative Network](https://4euplus.eu/4EU-158.html) [Philotrans](https://www.uni-heidelberg.de/fakultaeten/neuphil/iask/sued/internationales/co_network_philotrans.html). See this [pdf document for the complete list of courses and registration details](https://www.uni-heidelberg.de/md/sued/internationales/ueberblick_philotrans_kurse_ws-2020-21.pdf)
 
 ##### Course materials
