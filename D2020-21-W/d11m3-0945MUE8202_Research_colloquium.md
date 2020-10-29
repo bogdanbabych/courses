@@ -3,7 +3,7 @@
 #### 0945MUE8202 Research colloquium: research for MA Thesis  
 - MA colloquium, 3rd semester Forschungskolloquium MA, 3rd Sem, 3 Credit Points, Research colloquium, Mon 10:15 to 11:45;
 - [*LSF*](https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=323377&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
-- [*Course description*](/teach2020-21-WS.md#0945MUE8202)
+- [*Course description*](../teach2020-21-WS.md#0945MUE8202)
 
 ##### Course materials
 
