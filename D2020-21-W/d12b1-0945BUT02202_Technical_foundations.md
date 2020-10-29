@@ -2,6 +2,8 @@
 ### Winter Semester 2020-2021
 #### 0945BUT02202 Technical foundations of professional translation
 - BA practical, 1st semester  Medientechnische Grundlagen der Fachübersetzung, BA, 1st Sem, 2 Credit Points, Practice class, Mon.	12:15 to 13:45;
+- [*LSF*](https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=323831&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
+- [*Course description*](teach2020-21-WS.md#0945BUT02202)
 
 ##### Course materials
 

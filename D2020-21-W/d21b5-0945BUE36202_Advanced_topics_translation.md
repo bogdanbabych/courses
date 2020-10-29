@@ -2,6 +2,8 @@
 ### Winter Semester 2020-2021
 #### 0945BUE36202 Advanced topics in translation studies - Translation quality, critical evaluation and justification of translation decisions
 - BA main seminar, 5th semester Übersetzungswissenschaft, BA, 5th Sem, 5 Credit Points, Main seminar, Tue.	10:15 to 11:45;
+- [*LSF*](https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=320587&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
+- [*Course description*](teach2020-21-WS.md#0945BUE36202)
 
 ##### Course materials
 
