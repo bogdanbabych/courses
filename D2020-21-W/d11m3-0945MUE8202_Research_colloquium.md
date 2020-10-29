@@ -8,6 +8,7 @@
 ##### Course materials
 
 Week01: 02 Nov – 08 Nov 2020: Course Introduction  
+- Please join our Seminar Room: [*https://heiconf.uni-heidelberg.de/bab-eeq-ax3*](https://heiconf.uni-heidelberg.de/bab-eeq-ax3)  on Monday, 2 Nov, 10:15 am
 
 Week02: 09 Nov – 15 Nov 2020:
 
