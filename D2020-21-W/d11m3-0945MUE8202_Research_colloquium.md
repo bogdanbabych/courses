@@ -1,14 +1,9 @@
-## Department of Translation, Communication and Technology
-### Institute for Translation and Interpreting, Heidelberg University
-
-[Home](index.md) | [Teaching](teaching.md) | [Research](research.md) | [Collaboration](collaboration.md) | [Techologies](techlabs.md) | [![Image](de_l_flag.png)](de_index.html) [![Image](uk_l_flag.png)](uk_index.html)
-
+## Institute for Translation and Interpreting, Heidelberg University
 ### Winter Semester 2020-2021
-
-##### 0945MUE8202 Research colloquium: research for MA Thesis,
+#### 0945MUE8202 Research colloquium: research for MA Thesis  
 - MA colloquium, 3rd semester Forschungskolloquium MA, 3rd Sem, 3 Credit Points, Research colloquium, Mon 10:15 to 11:45;
 
-#### Course materials
+##### Course materials
 
 Week01: 02 Nov – 08 Nov 2020: Course Introduction  
 
@@ -38,4 +33,4 @@ Week12: 08 Feb – 14 Feb 2021:
 
 Week13: 15 Feb – 21 Feb 2021:
 
-Week14: 22 Feb – 28 Feb 2021: 
+Week14: 22 Feb – 28 Feb 2021:

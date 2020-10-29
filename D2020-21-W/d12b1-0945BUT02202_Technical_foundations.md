@@ -1,10 +1,5 @@
-## Department of Translation, Communication and Technology
-### Institute for Translation and Interpreting, Heidelberg University
-
-[Home](index.md) | [Teaching](teaching.md) | [Research](research.md) | [Collaboration](collaboration.md) | [Techologies](techlabs.md) | [![Image](de_l_flag.png)](de_index.html) [![Image](uk_l_flag.png)](uk_index.html)
-
+## Institute for Translation and Interpreting, Heidelberg University
 ### Winter Semester 2020-2021
-
 #### 0945BUT02202 Technical foundations of professional translation
 - BA practical, 1st semester  Medientechnische Grundlagen der Fachübersetzung, BA, 1st Sem, 2 Credit Points, Practice class, Mon.	12:15 to 13:45;
 

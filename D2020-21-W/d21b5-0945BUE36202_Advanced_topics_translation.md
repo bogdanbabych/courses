@@ -1,10 +1,5 @@
-## Department of Translation, Communication and Technology
-### Institute for Translation and Interpreting, Heidelberg University
-
-[Home](index.md) | [Teaching](teaching.md) | [Research](research.md) | [Collaboration](collaboration.md) | [Techologies](techlabs.md) | [![Image](de_l_flag.png)](de_index.html) [![Image](uk_l_flag.png)](uk_index.html)
-
+## Institute for Translation and Interpreting, Heidelberg University
 ### Winter Semester 2020-2021
-
 #### 0945BUE36202 Advanced topics in translation studies - Translation quality, critical evaluation and justification of translation decisions
 - BA main seminar, 5th semester Übersetzungswissenschaft, BA, 5th Sem, 5 Credit Points, Main seminar, Tue.	10:15 to 11:45;
 
