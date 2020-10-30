@@ -5,10 +5,15 @@
 - [*LSF*](https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=320587&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
 - [*Course description*](../teach2020-21-WS.md#0945BUE36202)
 
+##### Virtual Seminar Room
+
+We start this course on-line. Please join our Seminar Room:  
+[**https://heiconf.uni-heidelberg.de/bab-eeq-ax3**](https://heiconf.uni-heidelberg.de/bab-eeq-ax3)  
+on Tuesday, 10:15 am. If any problems with computer audio, you can also dial in via the phone: +49 6221 431 0 410, and then enter Phone PIN: 4341-9332-8165
+
 ##### Course materials
 
 Week01: 02 Nov – 08 Nov 2020: Course Introduction  
-- Please join our Seminar Room: [*https://heiconf.uni-heidelberg.de/bab-eeq-ax3*](https://heiconf.uni-heidelberg.de/bab-eeq-ax3)  on Tuesday, 3 Nov, 10:15 am. If any problems with computer audio, you can also dial in via the phone: +49 6221 431 0 410, and then enter Phone PIN: 4341-9332-8165 
 
 Week02: 09 Nov – 15 Nov 2020:
 

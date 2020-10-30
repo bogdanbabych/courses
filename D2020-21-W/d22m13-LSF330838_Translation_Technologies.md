@@ -7,10 +7,16 @@
 - [*Course syllabus*](../teach2020-21-WS.md#LSF330838syllabus)
   : This on-line English language course is offered to students of Universität Heidelberg, partner universities of our [4EU+ Alliance](https://4euplus.eu/4EU-1.html) and partners of our [Cooperative Network](https://4euplus.eu/4EU-158.html) [Philotrans](https://www.uni-heidelberg.de/fakultaeten/neuphil/iask/sued/internationales/co_network_philotrans.html). See this [pdf document for the complete list of courses and registration details](https://www.uni-heidelberg.de/md/sued/internationales/ueberblick_philotrans_kurse_ws-2020-21.pdf)
 
+
+##### Virtual Seminar Room
+
+We start this course on-line. Please join our Seminar Room:  
+[**https://heiconf.uni-heidelberg.de/bab-eeq-ax3**](https://heiconf.uni-heidelberg.de/bab-eeq-ax3)  
+on Tuesday, 13:15 Central European Time. If any problems with computer audio, you can also dial in via the phone: +49 6221 431 0 410, and then enter Phone PIN: 4341-9332-8165
+
 ##### Course materials
 
 Week01: 02 Nov – 08 Nov 2020: Course Introduction  
-- Please join our Seminar Room: [*https://heiconf.uni-heidelberg.de/bab-eeq-ax3*](https://heiconf.uni-heidelberg.de/bab-eeq-ax3)  on Tuesday, 3 Nov, 13:15 Central European Time. If any problems with computer audio, you can also dial in via the phone: +49 6221 431 0 410, and then enter Phone PIN: 4341-9332-8165 
 
 Week02: 09 Nov – 15 Nov 2020:
 
