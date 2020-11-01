@@ -14,6 +14,10 @@ on Monday, 10:15 am. If any problems with computer audio, you can also dial in v
 ##### Course materials
 
 Week01: 02 Nov – 08 Nov 2020: Course Introduction  
+	- Self-enrolment code on [Uni-Heidelberg Moodle](https://moodle.uni-heidelberg.de/): d11m3-0945MUE8202
+	- Introduction: Please fill in this google form: [https://forms.gle/zzZjSqDudzZ2gQbP8](https://forms.gle/zzZjSqDudzZ2gQbP8)
+	- Chanel on Slack (you will receive invitation via email): 0945mue8202-forschungskolloquium
+	- Lecture slides: [pdf](https://heibox.uni-heidelberg.de/f/2d67e73a9b18487c9c10/) [pptx](https://heibox.uni-heidelberg.de/f/08c9f340e2b443128b8d/)
 
 Week02: 09 Nov – 15 Nov 2020:
 
