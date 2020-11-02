@@ -16,7 +16,7 @@ on Monday, 12:15. If any problems with computer audio, you can also dial in via 
 Week01: 02 Nov – 08 Nov 2020: Course Introduction  
 - Self-enrolment code on [Uni-Heidelberg Moodle](https://moodle.uni-heidelberg.de/): d12b1-0945BUT02202
 - Introduction: Please fill in this google form: [https://forms.gle/nAc63bzcACkHxNZq8](https://forms.gle/nAc63bzcACkHxNZq8)
-- Chanel on Slack (you will receive invitation via email): 0945but02202-medientechnische-grundlagen-i
+- Channel on Slack (you will receive invitation via email): 0945but02202-medientechnische-grundlagen-i
 - Lecture slides - Introduction: [pdf](https://heibox.uni-heidelberg.de/f/cd57513fccea41909b5a/) [pptx](https://heibox.uni-heidelberg.de/f/1df0f1d61e3a41b5b568/)
 
 Week02: 09 Nov – 15 Nov 2020:
