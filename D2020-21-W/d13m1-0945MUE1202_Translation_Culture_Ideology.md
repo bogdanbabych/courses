@@ -18,10 +18,9 @@ Week01: 02 Nov – 08 Nov 2020: Course Introduction
 - Introduction: Please fill in this google form: [https://forms.gle/WsvrxdNhnkAMnTC57](https://forms.gle/WsvrxdNhnkAMnTC57)
 - Chanel on Slack (you will receive invitation via email): 0945mue1202-translations-und-kulturwissenschaft-i
 - Lecture slides - Introduction: [pdf](https://heibox.uni-heidelberg.de/f/6247e53e7329471f8522/) [pptx](https://heibox.uni-heidelberg.de/f/d580c658ef944a9f90e8/)
-- Lecture slides - Overview: [pdf](https://heibox.uni-heidelberg.de/f/d82aa7c84e7f42c1bd5f/) [pptx](https://heibox.uni-heidelberg.de/f/29dd79c3576f4755a174/)
-
 
 Week02: 09 Nov – 15 Nov 2020:
+- Lecture slides - Overview: [pdf](https://heibox.uni-heidelberg.de/f/d82aa7c84e7f42c1bd5f/) [pptx](https://heibox.uni-heidelberg.de/f/29dd79c3576f4755a174/)
 
 Week03: 16 Nov – 22 Nov 2020:
 

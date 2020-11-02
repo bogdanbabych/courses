@@ -18,10 +18,9 @@ Week01: 02 Nov – 08 Nov 2020: Course Introduction
 - Introduction: Please fill in this google form: [https://forms.gle/nAc63bzcACkHxNZq8](https://forms.gle/nAc63bzcACkHxNZq8)
 - Chanel on Slack (you will receive invitation via email): 0945but02202-medientechnische-grundlagen-i
 - Lecture slides - Introduction: [pdf](https://heibox.uni-heidelberg.de/f/cd57513fccea41909b5a/) [pptx](https://heibox.uni-heidelberg.de/f/1df0f1d61e3a41b5b568/)
-- Lecture slides - Overview of corpus tools: [pdf](https://heibox.uni-heidelberg.de/f/4f721cae16374602b412/) [pptx](https://heibox.uni-heidelberg.de/f/fe4b099405f84d7a9c97/)
-
 
 Week02: 09 Nov – 15 Nov 2020:
+- Lecture slides - Overview of corpus tools: [pdf](https://heibox.uni-heidelberg.de/f/4f721cae16374602b412/) [pptx](https://heibox.uni-heidelberg.de/f/fe4b099405f84d7a9c97/)
 
 Week03: 16 Nov – 22 Nov 2020:
 

@@ -21,6 +21,7 @@ Week01: 02 Nov – 08 Nov 2020: Course Introduction
 
 Week02: 09 Nov – 15 Nov 2020:
 
+
 Week03: 16 Nov – 22 Nov 2020:
 
 Week04: 23 Nov – 29 Nov 2020:
