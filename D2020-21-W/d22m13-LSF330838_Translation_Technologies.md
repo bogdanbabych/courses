@@ -20,10 +20,9 @@ Week01: 02 Nov – 08 Nov 2020: Course Introduction
 - Introduction: Please fill in this google form: [https://forms.gle/a3KVMm6bUZHWCK8j9](https://forms.gle/a3KVMm6bUZHWCK8j9)
 - Channel on Slack (you will receive invitation via email): lsf330838-translation-technologies
 - Lecture slides - Introduction: [pdf](https://heibox.uni-heidelberg.de/f/3d2c8107d9a7479b9624/) [pptx](https://heibox.uni-heidelberg.de/f/eb9e349bf66e4505a26d/)
-- Additional materials - overview of technologies: [pdf](https://heibox.uni-heidelberg.de/f/81b35cc6a3684b1cbcd8/) [pptx](https://heibox.uni-heidelberg.de/f/d4b0150aeb2d402cba0f/)
-
 
 Week02: 09 Nov – 15 Nov 2020:
+- Additional materials - overview of technologies: [pdf](https://heibox.uni-heidelberg.de/f/81b35cc6a3684b1cbcd8/) [pptx](https://heibox.uni-heidelberg.de/f/d4b0150aeb2d402cba0f/)
 
 Week03: 16 Nov – 22 Nov 2020:
 
