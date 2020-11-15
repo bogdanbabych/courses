@@ -25,10 +25,10 @@ Week02: 09 Nov – 15 Nov 2020:
 
 Week03: 16 Nov – 22 Nov 2020:
 - Literature (electronic versions are on [Moodle under this folder link](https://moodle.uni-heidelberg.de/mod/folder/view.php?id=229784) ):
-House, J. (2015) Translation quality assessment past and present. Abingdon: Routledge: 54-70 (chapters 5 and 6)  
-Nord, C. (1997). ‘A functional typology of translations’. In A. Trosborg (ed.) Text typology and translation. Amsterdam and Philadelphia: Benjamins: 43-66  
-Sager, J. (1997). ‘Text types and translation’. In A. Trosborg (ed.) Text typology and translation. Amsterdam and Philadelphia: Benjamins: 25-41
-Waller, R. (1999) ‘Making connections: typography layout and language’. In Proceedings of the 1999 Autumn Symposium, American Association for Artificial Intelligence.
+**House, J.** (2015) Translation quality assessment past and present. Abingdon: Routledge: 54-70 (chapters 5 and 6)  
+**Nord, C. (1997).** ‘A functional typology of translations’. In A. Trosborg (ed.) Text typology and translation. Amsterdam and Philadelphia: Benjamins: 43-66  
+**Sager, J. (1997).** ‘Text types and translation’. In A. Trosborg (ed.) Text typology and translation. Amsterdam and Philadelphia: Benjamins: 25-41  
+**Waller, R.** (1999) ‘Making connections: typography layout and language’. In Proceedings of the 1999 Autumn Symposium, American Association for Artificial Intelligence.  
 
 Week04: 23 Nov – 29 Nov 2020:
 
