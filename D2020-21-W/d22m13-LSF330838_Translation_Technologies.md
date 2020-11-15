@@ -25,7 +25,7 @@ Week01: 02 Nov – 08 Nov 2020: Course Introduction
 
 
 Week02: 09 Nov – 15 Nov 2020:
-- Lecture slides w01 - Introduction: [pdf, pptx https://heibox.uni-heidelberg.de/d/3ea4ead146e9420e9832/](https://heibox.uni-heidelberg.de/d/3ea4ead146e9420e9832/)  
+- Lecture slides w02 - Introduction: [pdf, pptx https://heibox.uni-heidelberg.de/d/3ea4ead146e9420e9832/](https://heibox.uni-heidelberg.de/d/3ea4ead146e9420e9832/)  
 - Video recording of the class: [https://youtu.be/pmDCTxEgreg](https://youtu.be/pmDCTxEgreg)
 
 

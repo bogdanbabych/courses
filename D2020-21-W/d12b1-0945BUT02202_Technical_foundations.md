@@ -17,6 +17,7 @@ Week01: 02 Nov – 08 Nov 2020: Course Introduction
 - Self-enrolment code on [Uni-Heidelberg Moodle](https://moodle.uni-heidelberg.de/): d12b1-0945BUT02202
 - Introduction: Please fill in this google form: [https://forms.gle/nAc63bzcACkHxNZq8](https://forms.gle/nAc63bzcACkHxNZq8)
 - Channel on Slack (you will receive invitation via email): 0945but02202-medientechnische-grundlagen-i
+- Additional material - Overview of corpus tools: [pdf](https://heibox.uni-heidelberg.de/f/4f721cae16374602b412/) [pptx](https://heibox.uni-heidelberg.de/f/fe4b099405f84d7a9c97/)
 - Lecture slides w01 - Introduction: [pdf, pptx https://heibox.uni-heidelberg.de/d/6aca4c4cb266454bbd17/](https://heibox.uni-heidelberg.de/d/6aca4c4cb266454bbd17/)
 
 Week02: 09 Nov – 15 Nov 2020:
@@ -24,7 +25,6 @@ Week02: 09 Nov – 15 Nov 2020:
 - Video recording of the class: [https://youtu.be/lHn1_KwG4nc](https://youtu.be/lHn1_KwG4nc)
 
 Week03: 16 Nov – 22 Nov 2020:
-- Lecture slides - Overview of corpus tools: [pdf](https://heibox.uni-heidelberg.de/f/4f721cae16374602b412/) [pptx](https://heibox.uni-heidelberg.de/f/fe4b099405f84d7a9c97/)
 
 
 Week04: 23 Nov – 29 Nov 2020:
