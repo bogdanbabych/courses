@@ -19,13 +19,17 @@ on Tuesday, 13:15 Central European Time. If any problems with computer audio, yo
 Week01: 02 Nov – 08 Nov 2020: Course Introduction  
 - Introduction: Please fill in this google form: [https://forms.gle/a3KVMm6bUZHWCK8j9](https://forms.gle/a3KVMm6bUZHWCK8j9)
 - Channel on Slack (you will receive invitation via email): lsf330838-translation-technologies
-- Lecture slides w01 - Introduction: [pdf](https://heibox.uni-heidelberg.de/f/3d2c8107d9a7479b9624/) [pptx](https://heibox.uni-heidelberg.de/f/eb9e349bf66e4505a26d/)
+- Additional materials - overview of technologies: [pdf, pptx https://heibox.uni-heidelberg.de/d/10629b03d7514ecd866a/](https://heibox.uni-heidelberg.de/d/10629b03d7514ecd866a/)  
+- Lecture slides w01 - Introduction: [pdf, pptx https://heibox.uni-heidelberg.de/d/f18b6065ae04475d981e/](https://heibox.uni-heidelberg.de/d/f18b6065ae04475d981e/)  
+- Video recording of the class: [https://youtu.be/41bU19W4xmc](https://youtu.be/41bU19W4xmc)
+
 
 Week02: 09 Nov – 15 Nov 2020:
-- Video recording of the class: []()
+- Lecture slides w01 - Introduction: [pdf, pptx https://heibox.uni-heidelberg.de/d/3ea4ead146e9420e9832/](https://heibox.uni-heidelberg.de/d/3ea4ead146e9420e9832/)  
+- Video recording of the class: [https://youtu.be/pmDCTxEgreg](https://youtu.be/pmDCTxEgreg)
+
 
 Week03: 16 Nov – 22 Nov 2020:
-- Additional materials - overview of technologies: [pdf](https://heibox.uni-heidelberg.de/f/81b35cc6a3684b1cbcd8/) [pptx](https://heibox.uni-heidelberg.de/f/d4b0150aeb2d402cba0f/)
 
 Week04: 23 Nov – 29 Nov 2020:
 
