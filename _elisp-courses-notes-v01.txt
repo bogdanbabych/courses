@@ -1,0 +1,509 @@
+
+[platforms]
+	https://pruefer.uni-heidelberg.de/LogoutServlet?action=autologout
+	sil.do
+	https://www.wordclouds.com/
+
+	Sketch Grammar - Terminology
+	https://www.sketchengine.eu/documentation/writing-term-grammar/#toggle-id-1
+	https://www.sketchengine.eu/documentation/cql-basics/?highlight=term%20grammars
+
+	https://www.sketchengine.eu/documentation/mn-mapping-helper-scripts/
+	https://www.sketchengine.eu/guide/setting-up-parallel-corpora/#tab-id-3
+
+
+
+ideas for courses / teaching
+	- misinformation methods and tools:
+
+
+
+[general]
+	Corpus ID: 59362386
+	Towards a linguistic theory of translation as re-contextualisation and a Third Space phenomenon
+		J. House
+		Published 2008
+		Sociology
+		Linguistica Antverpiensia, New Series – Themes in Translation Studies
+		https://www.semanticscholar.org/paper/Towards-a-linguistic-theory-of-translation-as-and-a-House/9179f2fa7862a2bb887efdebd6478005535971ea?p2df
+
+
+	ideas in translation studies and exploring them with corpus tools
+
+	[recontextualisation]
+
+	[political translation]
+		examples
+		- equivalence and loss
+		'Death of Stalin' <
+
+
+		Woodward tells how allies tried to rein in 'childish' Trump's foreign policy
+		https://www.theguardian.com/us-news/2020/sep/10/donald-trump-bob-woodward-iran-qassem-suleimani-golf
+
+
+
+
+	[cultural translation]
+		- ‘Emily in Paris’ and its controversy
+		http://www.stillmantranslations.com/new/wordpress/emily-in-paris/
+		https://www.facebook.com/IAPTI
+		https://www.facebook.com/IAPTI/posts/3656762897717041
+
+
+	[translation theory]
+
+	Anthony Pym
+      Skopos theory, Part 2
+      https://www.youtube.com/watch?v=WiSu9KAr9ME
+
+      Skopos theory, Part 1
+      https://www.youtube.com/watch?v=3k0cDBt2tDs
+
+
+      What's wrong with equivalence? (Exploring Translation Theories)
+      https://www.youtube.com/watch?v=cBZ1m1cAd6I
+
+      Theories of directional equivalence in translation
+      https://www.youtube.com/watch?v=ZP9PcjIMkVU
+
+      Theories of natural equivalence in translation
+      https://www.youtube.com/watch?v=_G5oAMWfObI
+
+
+
+
+     [open source]
+      	Jane Austen on Python: The intersection of literature and tech
+      	https://opensource.com/business/15/10/jane-austen-on-python
+
+
+
+
+	[translation technologies]
+		#2020TEF - EU PLATFORMS: how (machine) translation helps the EU connect with the public
+		https://www.youtube.com/watch?v=GS0Hm1lxZ4o&list=PLLqIRaiVCGCSHIfKC-selPoY6IS_hfsXj&index=3
+
+		#2020TEF - PANEL DISCUSSION - Digital platforms and the translation profession: what to expect?
+		https://www.youtube.com/watch?v=G6MrhskQjNY&list=PLLqIRaiVCGCSHIfKC-selPoY6IS_hfsXj&index=2
+
+		https://www.youtube.com/playlist?list=PLLqIRaiVCGCSHIfKC-selPoY6IS_hfsXj
+
+		https://www.youtube.com/user/DGTranslation/playlists
+		https://www.youtube.com/channel/UCKTsj3zO8aJ90WVGVtTSf0g
+
+		Translating for Europe
+
+		#2019TEF - DAY 1 - Welcome / Keynote speech
+		https://www.youtube.com/watch?v=saxjozI_6Sg&feature=youtu.be&t=1768
+
+		Translating Europe Forum 2019
+		https://ec.europa.eu/info/events/2019TEF_en
+
+
+
+	Translating Europe - German National Library
+		https://streamstudio.world-television.com/CCUIv3/frameset.aspx?ticket=894-1246-25874&target=en-default-&status=ondemand&browser=ns-0-1-0-0-0&stream=html5-video-1000
+
+		https://www.dnb.de/DE/Kulturell/Kabinettausstellung/kabinettausstellung_node.html
+		https://www.dnb.de/DE/Ueber-uns/EU-Ratspraesidentschaft/translatingeurope.html?nn=57554
+		https://streamstudio.world-television.com/894-1246-25874/en
+			> 3 hours video streaming .... -- materials for students
+
+
+
+
+[corpus work]
+
+	libgen:
+		Corpus-based language studies
+
+
+	To show: working with Sketch Engine :: finding translation equivalents...
+		Cause / produce
+			Word sketch differences : Covid corpus vs. other corpora...
+			https://app.sketchengine.eu/#sketchdiff?corpname=preloaded%2Fcovid19&tab=advanced&lemma=cause&lemma2=produce&lpos=-v
+			https://app.sketchengine.eu/#sketchdiff?corpname=preloaded%2Fcovid19&tab=advanced&lemma=cause&lemma2=produce&lpos=-v&showresults=1
+
+
+		Europarl:
+		produce
+			concordance
+			https://app.sketchengine.eu/#parconcordance?corpname=preloaded%2Feuroparl7_en&tab=advanced&formValue=%7B%22queryselector%22%3A%22iquery%22%2C%22keyword%22%3A%22produce%22%2C%22lpos%22%3A%22%22%2C%22wpos%22%3A%22%22%2C%22default_attr%22%3A%22%22%2C%22qmcase%22%3A%22%22%2C%22cql%22%3A%22%22%7D&structs=s%2Cg&itemsPerPage=100&formparts=%5B%7B%22corpname%22%3A%22europarl7_de_1%22%2C%22formValue%22%3A%7B%22queryselector%22%3A%22iquery%22%2C%22keyword%22%3A%22%22%2C%22lpos%22%3A%22%22%2C%22wpos%22%3A%22%22%2C%22default_attr%22%3A%22%22%2C%22qmcase%22%3A%22%22%2C%22cql%22%3A%22%22%2C%22filter_nonempty%22%3Atrue%2C%22pcq_pos_neg%22%3A%22pos%22%7D%7D%5D&operations=%5B%7B%22name%22%3A%22iquery%22%2C%22arg%22%3A%22produce%22%2C%22active%22%3Atrue%2C%22query%22%3A%7B%22queryselector%22%3A%22iqueryrow%22%2C%22iquery%22%3A%22produce%22%2C%22sel_aligned%22%3A%5B%22europarl7_de_1%22%5D%2C%22queryselector_europarl7_de_1%22%3A%22iqueryrow%22%2C%22iquery_europarl7_de_1%22%3A%22%22%2C%22pcq_pos_neg_europarl7_de_1%22%3A%22pos%22%2C%22filter_nonempty_europarl7_de_1%22%3A%22on%22%7D%2C%22id%22%3A4111%7D%5D&showresults=1&results_screen=concordance
+
+			https://app.sketchengine.eu/#parconcordance?corpname=preloaded%2Feuroparl7_en&tab=advanced&formValue=%7B%22queryselector%22%3A%22iquery%22%2C%22keyword%22%3A%22produce%22%2C%22lpos%22%3A%22%22%2C%22wpos%22%3A%22%22%2C%22default_attr%22%3A%22%22%2C%22qmcase%22%3A%22%22%2C%22cql%22%3A%22%22%7D&structs=s%2Cg&itemsPerPage=100&formparts=%5B%7B%22corpname%22%3A%22europarl7_de_1%22%2C%22formValue%22%3A%7B%22queryselector%22%3A%22iquery%22%2C%22keyword%22%3A%22%22%2C%22lpos%22%3A%22%22%2C%22wpos%22%3A%22%22%2C%22default_attr%22%3A%22%22%2C%22qmcase%22%3A%22%22%2C%22cql%22%3A%22%22%2C%22filter_nonempty%22%3Atrue%2C%22pcq_pos_neg%22%3A%22pos%22%7D%7D%5D&operations=%5B%7B%22name%22%3A%22iquery%22%2C%22arg%22%3A%22produce%22%2C%22active%22%3Atrue%2C%22query%22%3A%7B%22queryselector%22%3A%22iqueryrow%22%2C%22iquery%22%3A%22produce%22%2C%22sel_aligned%22%3A%5B%22europarl7_de_1%22%5D%2C%22queryselector_europarl7_de_1%22%3A%22iqueryrow%22%2C%22iquery_europarl7_de_1%22%3A%22%22%2C%22pcq_pos_neg_europarl7_de_1%22%3A%22pos%22%2C%22filter_nonempty_europarl7_de_1%22%3A%22on%22%7D%2C%22id%22%3A4111%7D%5D&results_screen=concordance
+
+			https://app.sketchengine.eu/#dashboard?corpname=preloaded%2Feuroparl7_en
+
+	"reading concordances"
+
+	https://www.euppublishing.com/toc/cor/15/1
+	Sketching women: a corpus-based approach to representations of women's agency in political Internet
+		https://www.euppublishing.com/doi/full/10.3366/cor.2020.0184
+		https://www.euppublishing.com/doi/pdfplus/10.3366/cor.2020.0184
+
+	CLiC Dickens: novel uses of concordances for the integration of corpus stylistics and cognitive poetics
+		https://www.euppublishing.com/doi/full/10.3366/cor.2016.0102
+
+
+
+
+
+[sil.do]
+	https://admin.sli.do/event/su0drkho/polls
+	bogdan.babych@gmail.com
+
+MODL5001M Virtual Classroom- Shared screen with speaker view
+	Jeremy et al.
+	https://universityofleeds.zoom.us/rec/play/FgonnNTpBUpEJ5xWZ4cqGPnvl6hCdfahEPlUa78xERBlDWUfXHIccpYwXnIviPWNiwH3K-Eg9HpxwNig.dS47_7s7xfa1dtsD?continueMode=true&_x_zm_rtaid=qxVzboleTqali5WDb3a4Dw.1604225547941.23b2f1c850dfcc2bb8365659355ac5c7&_x_zm_rhtaid=207
+
+
+
+
+[examples]
+	Rob Gaizauskas : MSC Projects 2019-20
+	https://staffwww.dcs.shef.ac.uk/people/R.Gaizauskas/teach/msc_proj/mscproj-rjg-1920.html
+	https://staffwww.dcs.shef.ac.uk/people/R.Gaizauskas/teach/teaching.html
+	http://staffwww.dcs.shef.ac.uk/people/R.Gaizauskas/
+
+
+[R tutorial - ]
+	https://zipfr.r-forge.r-project.org/materials/zipfr-tutorial.pdf
+	https://www.google.com/search?q=R+lexical+distribution&oq=R+lexical+distribution&aqs=chrome..69i57j69i64l3.9648j0j7&sourceid=chrome&ie=UTF-8
+
+
+
+
+[translation technologies literature]
+	Routledge Studies in Translation Technology
+	""Controlled Document Authoring" pdf" -- google search
+	Future of translation technologies
+		https://www.routledge.com/Routledge-Studies-in-Translation-Technology/book-series/RSITT
+
+
+	Reversing Controlled Document Authoring to Normalize Documents
+		Aurelien Max
+		https://www.aclweb.org/anthology/E03-3006.pdf
+
+	Controlled Document Authoring in a Machine Translation Age
+		https://books.google.de/books?id=s7X_DwAAQBAJ&pg=PT12&lpg=PT12&dq=Professor+Emeritus+Anthony+Hartley&source=bl&ots=t_mSD8L-V7&sig=ACfU3U1iwf_A_JTdbpcEruMbXe5UIekvaw&hl=en&sa=X&ved=2ahUKEwij35jk_sLsAhUEDewKHdheC7YQ6AEwEHoECAcQAg#v=onepage&q=Professor%20Emeritus%20Anthony%20Hartley&f=false
+
+
+
+[curriculum in CL]
+	on Resources - HeiBox
+	https://heibox.uni-heidelberg.de/d/a2ac96aaa4bb48049b68/?dl=1
+
+
+	https://www.twirpx.com/file/1230250/
+
+		Н.П. Дарчук “Комп’ютерна лінгвістика
+	https://www.google.com/search?q=%D0%9D.%D0%9F.+%D0%94%D0%B0%D1%80%D1%87%D1%83%D0%BA+%E2%80%9C%D0%9A%D0%BE%D0%BC%D0%BF%E2%80%99%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B0+%D0%BB%D1%96%D0%BD%D0%B3%D0%B2%D1%96%D1%81%D1%82%D0%B8%D0%BA%D0%B0&oq=%D0%9D.%D0%9F.+%D0%94%D0%B0%D1%80%D1%87%D1%83%D0%BA+%E2%80%9C%D0%9A%D0%BE%D0%BC%D0%BF%E2%80%99%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B0+%D0%BB%D1%96%D0%BD%D0%B3%D0%B2%D1%96%D1%81%D1%82%D0%B8%D0%BA%D0%B0&aqs=chrome..69i57.891j0j7&sourceid=chrome&ie=UTF-8
+
+
+	http://natalia.grabar.free.fr/
+
+	Методи та засоби інтеграції даних
+		Спеціальність: Системи штучного інтелекту
+		Код дисципліни: 7.122.04.E.35
+		Кількість кредитів: 5
+		Кафедра: Інформаційні системи та мережі
+		Лектор: к.т.н., доцент Басюк Тарас Михайлович
+		https://www.lp.edu.ua/education/majors/subject/ICSIT/8.122.04/19/2016/ua/full/1/9088
+
+	Системи машинного перекладу та автоматичне реферування
+		Спеціальність: Системи штучного інтелекту
+		Код дисципліни: 7.122.04.E.39
+		Кількість кредитів: 5
+		Кафедра: Інформаційні системи та мережі
+		Лектор: д.н.с.к., с.н.с. Кунанець Наталія Едуардівна
+		https://www.lp.edu.ua/education/majors/subject/ICSIT/8.122.04/19/2016/ua/full/2/4354
+
+	Методи опрацювання природної мови
+		Спеціальність: Системи штучного інтелекту
+		Код дисципліни: 7.122.04.E.34
+		Кількість кредитів: 5
+		Кафедра: Інформаційні системи та мережі
+		Лектор: к.т.н., доцент Висоцька Вікторія Анатоліївна
+		Семестр: 1 семестр
+		Форма навчання: денна
+		https://www.lp.edu.ua/education/majors/subject/ICSIT/8.122.04/19/2016/ua/full/1/2337
+
+
+	Компютерна лінгвістика
+		Спеціальність: Системи штучного інтелекту
+		Код дисципліни: 7.122.04.E.33
+		Кількість кредитів: 5
+		Кафедра: Інформаційні системи та мережі
+		Лектор: к.ф.-м.н., доц. Григорович Віктор Геннадійович
+		Семестр: 1 семестр
+		Форма навчання: денна
+		https://www.lp.edu.ua/education/majors/subject/ICSIT/8.122.04/19/2016/ua/full/1/8321
+
+		https://drive.google.com/drive/folders/1igsftLSvCVG4k6y5S-lCU-yurrXJW47L?fbclid=IwAR3iMfVSlPqpdAaQryrqVfCC_3PEI4Nh-R0oMX4jkD1CREl7XICf1Znz6Po
+
+
+	STAT course
+		Syllabus
+	Intro to deep learning
+		https://courses.d2l.ai/berkeley-stat-157/index.html
+		https://d2l.ai/chapter_natural-language-processing-pretraining/index.html
+		This class provides a practical introduction to deep learning...
+		https://courses.d2l.ai/berkeley-stat-157/syllabus.html
+		https://courses.d2l.ai/berkeley-stat-157/units/introduction.html5-video-1000
+		https://courses.d2l.ai/berkeley-stat-157/units/mlp.html
+
+
+
+
+	Dive into Deep Learning
+		https://d2l.ai
+
+
+    Javascript Philology Labs
+    	https://www.youtube.com/channel/UCBsuqRcdVX8M7wmBOW70h2A
+
+
+
+
+	https://en.wikipedia.org/wiki/Word_embedding
+
+
+
+
+
+
+	DigiLing
+	https://learn.digiling.eu/login/index.php
+
+
+	Journal Ranking
+		https://scholar.google.co.uk/citations?hl=en&view_op=search_venues&vq=translation+%7C+translator&btnG=
+		https://est-translationstudies.org/resources/journals/rankings-of-translation-studies-journals/
+
+
+	Створили каталог українських освітніх програм в сфері штучного інтелекту
+	https://thedigital.gov.ua/news/mintsifra-stvorila-katalog-iz-ukrainskimi-osvitnimi-programami-v-sferi-shtuchnogo-intelektu?fbclid=IwAR3ju8CIMTk7hIPNGUWsGGk3S30gfe_IZBGF9Qc0cy3oMXZ7fekg7Y3wET8
+
+	Освітні програми в сфері штучного інтелекту
+	https://thedigital.gov.ua/lms_ai?fbclid=IwAR2NffxhfNb9QiaMUO-_5-dOT2KwI2eGUw2qMiTx5La4xk03acTQAazjTVA
+
+	Математичні методи комп’ютерного моделювання та розпізнавання образів
+	м. Київ, НТУУ «КПІ ім. І. Сікорського», Фізико-Технічний Інститут
+	https://thedigital.gov.ua/lms_ai/matematichni-metodi-kompyuternogo-modelyuvannya-ta-rozpiznavannya-obraziv?fbclid=IwAR3qAbvK_KqzSdX6twBe_PJg6_xj29u7pHCXYD6MV4Llwug2gkjKhV1q7JU
+
+
+	MODL5007M Corpus Linguistics for Translators
+		15 creditsClass Size: 40
+		Module manager: Dr Serge Sharoff
+		Email: S.Sharoff@leeds.ac.uk
+		http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201920&M=MODL-5007M
+
+
+	MSci in Data Science alumni
+	https://apps.ucu.edu.ua/en/data-science/alumni/
+
+
+	Certification program “Data Engineering”
+		https://apps.ucu.edu.ua/en/data-engineering/
+
+
+
+
+Python
+	Expert Python Tutorial #1 - Overview of Python & How it Works
+      https://www.youtube.com/watch?v=mclfteWlT2Q
+
+
+    Lecture 6: Version Control (git) (2020)
+    	https://www.youtube.com/watch?v=2sjqTHE0zok
+
+
+
+Streaming - Translating Europe - Library
+	2020
+	https://streamstudio.world-television.com/CCUIv3/frameset.aspx?ticket=894-1246-25874&target=en-default-&status=ondemand&browser=ns-0-1-0-0-0&stream=html5-video-1000
+
+
+
+
+Literature
+
+
+
+https://www.tandfonline.com/toc/rtrs20/13/3?nav=tocList
+Translation Studies
+	Jowett’s Thucydides: A corpus-based analysis of translation as political intervention
+	ABSTRACT
+		Thucydides’ History of the Peloponnesian War is a key text in the classical Greek canon and an important source of insights into the structures and tensions at the heart of ancient Athenian democracy. Consequently, modern interpretations of his analysis have repeatedly played a major role in shaping debates on the viability and desirability of democratic rule. This paper aims to build on previous discussion of Benjamin Jowett's 1881 translation of Thucydides by applying a comparative corpus-based methodology to explore how this translator's own personal politics shaped his re-presentation of this text. The analysis reveals a striking emphasis on the position and activity of democratic leaders throughout Jowett’s version, strongly consistent with the ideology of leadership that he developed during his career as Master of Balliol College, Oxford.
+			https://www.tandfonline.com/doi/full/10.1080/14781700.2020.1732230
+
+
+
+Neural Network AI is the Future of the Translation Industry
+	Recent advances in deep learning, also known as using neural machine learning, has proven to achieve state of the art results in machine translation.
+	https://syncedreview.com/2020/05/20/neural-network-ai-is-the-future-of-the-translation-industry/
+
+
+[d11]: research
+	scientific paradigms, kuhn...
+	phylosophy of sicence...
+
+
+	[videos]
+		Translation research -- youtube search
+		https://www.youtube.com/results?search_query=translation+research
+
+		Translation process research methodology: an overview
+		https://www.youtube.com/watch?v=LhGaDkRRUPE
+
+
+
+4	qualitative data analysis
+4	statistical data analysis
+3	corpus-based tools and methods
+3	experiment design
+3	interdisciplinary approaches
+3	linguistic framework
+3	machine translation
+2	contrastive linguistics
+2	literature
+1	CDA
+1	evaluation and analysis methods
+1	interviews with students and teachers
+1	legal translation
+1	literary theory
+1	localisation
+1	methodology comparison
+1	neural
+1	post-editing methods
+1	sociological analysis,
+1	structures within the texts
+
+
+contrastive linguistics, demo-linguistics, acquiring languages
+Contrastive linguistics or evaluation and error analysis of machine translation
+Terminology
+Politics/ideology in translation (comparing translations from different ideologies)
+Literary Translation
+terminology
+Practically applicable and versatile models for LSP and LSP translation
+Translation Management Systems (SDL Trados)
+Either literary translation or localisation (latter probably of video games)
+Impact of medium of instruction on motivation of students in India
+contrastive linguistics, legal translation, machine translation (focus on AI)
+artificial intelligence, evaluation and error analysis of neural machine translation with emphasis on coherence and terminology (from a user perspective)
+compiling Russian-German legal dictionary (corporate law)
+
+
+
+
+contrastive linguistics,
+demo-linguistics,
+acquiring languages
+contrastive linguistics
+evaluation and error analysis of machine translation
+terminology
+politics/ideology in translation (comparing translations from different ideologies)
+literary translation
+terminology
+practically applicable and versatile models for LSP and LSP translation
+translation Management Systems (SDL Trados)
+literary translation
+localisation (latter probably of video games)
+impact of medium of instruction on motivation of students in India
+contrastive linguistics,
+legal translation,
+machine translation
+artificial intelligence
+artificial intelligence,
+evaluation and error analysis of neural machine translation with emphasis on coherence and terminology (from a user perspective)
+compiling Russian-German legal dictionary (corporate law)
+
+
+
+
+
+
+
+[d13]: ideology
+		task: find an article, annotate evaluative language >
+			>> change the polarity
+			>> 'make objective', where possible ???
+			identify manipulative language....
+
+
+		- lecture : evaluation in translation
+		- practical / seminar : rewriting the text
+
+
+
+
+[d31]: theory
+	- to explore underlying literature -- deisnformation,
+		Timothy Sneider
+		>> methods how misinformation is targeted;
+		>> how language could be manipulated...
+
+		goals -- understanding the mechanisms of mis-information >>
+			+ including language manipulation
+			> and sociological aspects = power relations, empowering, social psychology, etc.
+
+		> construction of social reality and truth
+		> impact of language on interpretation of history ; political events... >
+		> formalism / framework for discussion
+
+
+
+
+	Ideology / politics / evaluation course
+		Fashion faith and fantacies - Penrose book:
+
+
+
+
+
+links to articles to analyse:
+	https://www.theguardian.com/world/2020/nov/10/ugur-sahin-and-ozlem-tureci-german-dream-team-behind-vaccine
+	Uğur Şahin and Özlem Türeci: German 'dream team' behind vaccine
+
+
+	BioNTech's Covid vaccine: a shot in the arm for Germany's Turkish community
+	https://www.theguardian.com/world/2020/nov/09/biontechs-covid-vaccine-a-shot-in-the-arm-for-germanys-turkish-community
+
+
+
+	https://www.theguardian.com/commentisfree/2020/nov/08/american-politics-trump-broken-system
+	The rotten state of American politics made Trump smell fresh
+	Nesrine Malik
+
+
+
+	https://www.theguardian.com/technology/2020/nov/10/apple-mac-mini-macbook-air-and-pro-with-iphone-like-chips-launch
+	Apple launches Mac mini, MacBook Air and Pro with iPhone-like chips
+	First M1-based Macs promise big leap in performance and battery life after ditching Intel chips
+
+	https://www.theguardian.com/commentisfree/2020/nov/10/covid-lockdown-nigel-farage-brexit-national-panic
+	Why Nigel Farage's anti-Covid-lockdown crusade is a cause for grave concern
+	Sonia Sodha
+
+
+	https://www.theguardian.com/world/2020/nov/10/nagorno-karabakh-peace-deal-turkey-russia-reshapes-regional-geopolitics
+	Nagorno-Karabakh peace deal reshapes regional geopolitics
+
+
+	https://www.theguardian.com/world/2020/nov/11/nikol-is-a-traitor-armenia-pm-refuses-to-yield-to-opposition-after-nagorno-karabakh-deal
+	'Nikol is a traitor': Armenia PM refuses to yield to opposition after Nagorno-Karabakh deal
+
+
+
+	We must prevent a vaccine 'infodemic' from fuelling the Covid pandemic
+	Melinda Mills
+	https://www.theguardian.com/commentisfree/2020/nov/11/vaccine-infodemic-covid-pandemic-anti-vaxxers-campaigns-persuade
+
+
+	https://www.theguardian.com/us-news/2020/nov/11/donald-trump-presidency-coup-power-election-joe-biden
+	‘It must be made to fail’: Trump's desperate bid to cling to power
+	Eight days after election day, concerns are escalating over the president’s visible attempts to stay in office despite Joe Biden’s victory
+
+	

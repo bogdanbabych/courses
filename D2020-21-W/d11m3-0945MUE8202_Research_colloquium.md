@@ -17,9 +17,12 @@ Week01: 02 Nov – 08 Nov 2020: Course Introduction
 - Self-enrolment code on [Uni-Heidelberg Moodle](https://moodle.uni-heidelberg.de/): d11m3-0945MUE8202
 - Introduction: Please fill in this google form: [https://forms.gle/zzZjSqDudzZ2gQbP8](https://forms.gle/zzZjSqDudzZ2gQbP8)
 - Channel on Slack (you will receive invitation via email): 0945mue8202-forschungskolloquium
-- Lecture slides: [pdf](https://heibox.uni-heidelberg.de/f/2d67e73a9b18487c9c10/) [pptx](https://heibox.uni-heidelberg.de/f/08c9f340e2b443128b8d/)
+- Presentation slides w01: [pdf,ppt: https://heibox.uni-heidelberg.de/d/a8136657fce243f9b980/](https://heibox.uni-heidelberg.de/d/a8136657fce243f9b980/)
 
 Week02: 09 Nov – 15 Nov 2020:
+- Presentation slides w02: [pdf,ppt: https://heibox.uni-heidelberg.de/d/7b33fdf639ee4f23b959/](https://heibox.uni-heidelberg.de/d/7b33fdf639ee4f23b959/)
+- Video recording of the class: [https://youtu.be/cOGuhzzSqLY](https://youtu.be/cOGuhzzSqLY)
+
 
 
 Week03: 16 Nov – 22 Nov 2020:
