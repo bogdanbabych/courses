@@ -26,6 +26,7 @@ Week02: 09 Nov – 15 Nov 2020:
 
 
 Week03: 16 Nov – 22 Nov 2020:
+- Literature: Sinclair, J. (2016). Reading concordances. Longman
 
 Week04: 23 Nov – 29 Nov 2020:
 

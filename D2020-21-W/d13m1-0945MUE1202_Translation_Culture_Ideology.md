@@ -25,6 +25,7 @@ Week02: 09 Nov – 15 Nov 2020:
 
 Week03: 16 Nov – 22 Nov 2020:
 - Please prepare your short presentations about semantic prosodies. I may ask everyone to say a few words about their own presentations.
+- Literature: Sinclair, J. (2016). Reading concordances. Longman
 
 Week04: 23 Nov – 29 Nov 2020:
 
