@@ -17,11 +17,11 @@ Week01: 02 Nov – 08 Nov 2020: Course Introduction
 - Self-enrolment code on [Uni-Heidelberg Moodle](https://moodle.uni-heidelberg.de/): d21b5-0945BUE36202
 - Introduction: Please fill in this google form: [https://forms.gle/VN3gjua4b4QpZ3Ak6](https://forms.gle/VN3gjua4b4QpZ3Ak6)
 - Channel on Slack (you will receive invitation via email): 0945bue36202-übersetzungswissenschaft
-- Lecture slides w01 - Introduction: [pdf](https://heibox.uni-heidelberg.de/f/c8ee8656055243abb5d0/) [pptx](https://heibox.uni-heidelberg.de/f/038eaa3bc4ef44f586e0/)
+- Lecture slides w01 - Introduction: [pdf, pptx https://heibox.uni-heidelberg.de/d/c13f9c18c0834068a3f0/](https://heibox.uni-heidelberg.de/d/c13f9c18c0834068a3f0/)  
 
 Week02: 09 Nov – 15 Nov 2020:
-- Lecture slides w02 - Overview: [pdf](https://heibox.uni-heidelberg.de/f/ae6d1d4ff93b4026ba00/) [pptx](https://heibox.uni-heidelberg.de/f/fb65ad393b3e40b09138/)
-- Video recording of the class: []()
+- Lecture slides w02 - Overview: [pdf, pptx https://heibox.uni-heidelberg.de/d/5cf598cf9cf848a49833/](https://heibox.uni-heidelberg.de/d/5cf598cf9cf848a49833/)  
+- Video recording of the class: [https://youtu.be/prxWpuib2Lw](https://youtu.be/prxWpuib2Lw)  
 
 Week03: 16 Nov – 22 Nov 2020:
 
