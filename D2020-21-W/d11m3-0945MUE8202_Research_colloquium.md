@@ -21,7 +21,7 @@ Week01: 02 Nov – 08 Nov 2020: Course Introduction
 
 Week02: 09 Nov – 15 Nov 2020:
 - Presentation slides w02: [pdf,ppt: https://heibox.uni-heidelberg.de/d/7b33fdf639ee4f23b959/](https://heibox.uni-heidelberg.de/d/7b33fdf639ee4f23b959/)
-- Video recording of the class: [https://youtu.be/cOGuhzzSqLY](https://youtu.be/cOGuhzzSqLY)
+- Video recording of the class: [https://youtu.be/9PbBrn9L7xo](https://youtu.be/9PbBrn9L7xo)
 - Developing your research as a narrative: cf. ideas by George Monbiot (t=1:34 till 8:00): [https://youtu.be/xDKth-qS8Jk?t=94](https://youtu.be/xDKth-qS8Jk?t=94)
 
 
