@@ -17,10 +17,11 @@ Week01: 02 Nov – 08 Nov 2020: Course Introduction
 - Self-enrolment code on [Uni-Heidelberg Moodle](https://moodle.uni-heidelberg.de/): d13m1-0945MUE1202
 - Introduction: Please fill in this google form: [https://forms.gle/WsvrxdNhnkAMnTC57](https://forms.gle/WsvrxdNhnkAMnTC57)
 - Channel on Slack (you will receive invitation via email): 0945mue1202-translations-und-kulturwissenschaft-i
-- Lecture slides - Introduction: [pdf](https://heibox.uni-heidelberg.de/f/6247e53e7329471f8522/) [pptx](https://heibox.uni-heidelberg.de/f/d580c658ef944a9f90e8/)
+- Lecture slides w01 - Introduction: [pdf, pptx https://heibox.uni-heidelberg.de/d/40ce60e21d4f478e9ac9/](https://heibox.uni-heidelberg.de/d/40ce60e21d4f478e9ac9/)
 
 Week02: 09 Nov – 15 Nov 2020:
-- Lecture slides - Overview: [pdf](https://heibox.uni-heidelberg.de/f/d82aa7c84e7f42c1bd5f/) [pptx](https://heibox.uni-heidelberg.de/f/29dd79c3576f4755a174/)
+- Lecture slides - Overview: [pdf, pptx https://heibox.uni-heidelberg.de/d/3e46eca0dac6474e83bf/](https://heibox.uni-heidelberg.de/d/3e46eca0dac6474e83bf/) 
+- Video recording of the class: [https://youtu.be/A-z4FYXbyGM](https://youtu.be/A-z4FYXbyGM)
 
 Week03: 16 Nov – 22 Nov 2020:
 
