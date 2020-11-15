@@ -25,7 +25,7 @@ Week02: 09 Nov – 15 Nov 2020:
 - Video recording of the class: [https://youtu.be/lHn1_KwG4nc](https://youtu.be/lHn1_KwG4nc)
 
 Week03: 16 Nov – 22 Nov 2020:
-
+- Please prepare your short presentations about semantic prosodies.
 
 Week04: 23 Nov – 29 Nov 2020:
 

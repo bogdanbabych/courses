@@ -30,7 +30,7 @@ Week02: 09 Nov – 15 Nov 2020:
 
 
 Week03: 16 Nov – 22 Nov 2020:
-- Please create your github account & and your repository for the course and send me the link. Thanks!
+- Please create your github account and your repository for the course and send me the link. Thanks!
 
 Week04: 23 Nov – 29 Nov 2020:
 
