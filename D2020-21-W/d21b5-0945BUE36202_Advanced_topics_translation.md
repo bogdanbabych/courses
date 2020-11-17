@@ -29,6 +29,7 @@ Week03: 16 Nov – 22 Nov 2020:
 **Nord, C. (1997).** ‘A functional typology of translations’. In A. Trosborg (ed.) Text typology and translation. Amsterdam and Philadelphia: Benjamins: 43-66  
 **Sager, J. (1997).** ‘Text types and translation’. In A. Trosborg (ed.) Text typology and translation. Amsterdam and Philadelphia: Benjamins: 25-41  
 **Waller, R. (1999)** ‘Making connections: typography layout and language’. In Proceedings of the 1999 Autumn Symposium, American Association for Artificial Intelligence.  
+- Text for analysis [https://heibox.uni-heidelberg.de/d/a23da7f9e88a481eb23a/](https://heibox.uni-heidelberg.de/d/a23da7f9e88a481eb23a/)
 
 Week04: 23 Nov – 29 Nov 2020:
 
