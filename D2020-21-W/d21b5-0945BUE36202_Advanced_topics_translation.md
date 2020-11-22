@@ -30,8 +30,23 @@ Week03: 16 Nov – 22 Nov 2020:
 **Sager, J. (1997).** ‘Text types and translation’. In A. Trosborg (ed.) Text typology and translation. Amsterdam and Philadelphia: Benjamins: 25-41  
 **Waller, R. (1999)** ‘Making connections: typography layout and language’. In Proceedings of the 1999 Autumn Symposium, American Association for Artificial Intelligence.  
 - Text for analysis [https://heibox.uni-heidelberg.de/d/a23da7f9e88a481eb23a/](https://heibox.uni-heidelberg.de/d/a23da7f9e88a481eb23a/)
+- Video recording of the class: [https://youtu.be/x5fMR1USPoA](https://youtu.be/x5fMR1USPoA)  
+- Lecture slides w03: [https://heibox.uni-heidelberg.de/d/7d403a4c50d44bab94ba/](https://heibox.uni-heidelberg.de/d/7d403a4c50d44bab94ba/)
 
 Week04: 23 Nov – 29 Nov 2020:
+- Task:
+1. Please try to find culturally or linguistically marked concepts which may require overt translation, e.g.:
+- UK cultural concepts: "Right Honourable Friend’; "Scottish nationalism”
+- or linguistic expressions which cannot be translated literary, e.g.: “loom large; symptomatic; cause; happen"
+	(maybe you could find some culture-specific expressions in other languages and cultures, and check if they could be translated into English
+
+2. Explore parallel and monolingual corpora in Sketchengine.eu, e.g., Europarl, Opus, or BNC
+(check concordances, word sketches, word sketch differences for the expression you have selected), trying to answer the following questions:
+— Which translation strategies have been used, if a direct translation is not possible?
+— Is there evidence of semantic prosodies of these words?
+
+Please present your findings as a short (PPT/PDF/Open Office) presentation, up to 5 slides.
+
 
 Week05: 30 Nov – 06 Dec 2020:
 

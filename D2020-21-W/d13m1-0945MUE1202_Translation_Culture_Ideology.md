@@ -27,6 +27,7 @@ Week03: 16 Nov – 22 Nov 2020:
 - Please prepare your short presentations about semantic prosodies. I may ask everyone to say a few words about their own presentations. [Presentations](https://heibox.uni-heidelberg.de/d/ea87e2db464d42a1bec5/)
 - Further literature on corpus analysis: Sinclair, J. (2016). Reading concordances. Longman
 - Rewriting political text: Please download and try to rewrite using the brief [https://heibox.uni-heidelberg.de/d/fd684d3d1efe4c21a663/](https://heibox.uni-heidelberg.de/d/fd684d3d1efe4c21a663/)
+- Video recording of the class (presentations, the link is available via Moodle): [https://moodle.uni-heidelberg.de/course/view.php?id=5164#section-3](https://moodle.uni-heidelberg.de/course/view.php?id=5164#section-3)
 
 Week04: 23 Nov – 29 Nov 2020:
 

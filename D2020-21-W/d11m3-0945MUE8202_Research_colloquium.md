@@ -26,9 +26,13 @@ Week02: 09 Nov – 15 Nov 2020:
 
 
 Week03: 16 Nov – 22 Nov 2020:
-- Literature: Sinclair, J. (2016). Reading concordances. Longman
+- Video recording of the class: [https://youtu.be/m91KNljuiXc](https://youtu.be/m91KNljuiXc)
+- Literature: Sinclair, J. (2016). Reading concordances. Longman [Link to PDF on Moodle: https://moodle.uni-heidelberg.de/mod/url/view.php?id=237382](https://moodle.uni-heidelberg.de/mod/url/view.php?id=237382)
+
 
 Week04: 23 Nov – 29 Nov 2020:
+- Presentation slides w04: [pdf, ppt: https://heibox.uni-heidelberg.de/d/d2108dcb824c40a9b476/](https://heibox.uni-heidelberg.de/d/d2108dcb824c40a9b476/)
+
 
 Week05: 30 Nov – 06 Dec 2020:
 

@@ -31,6 +31,9 @@ Week02: 09 Nov – 15 Nov 2020:
 
 Week03: 16 Nov – 22 Nov 2020:
 - Please create your github account and your repository for the course and send me the link. Thanks!
+- Register your alignment project here: [Google Spreadsheet https://docs.google.com/spreadsheets/d/1r7zUYx9pMOQ0mV6qX2TX02JWhUBQL2IP0U2AaafOnpI/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1r7zUYx9pMOQ0mV6qX2TX02JWhUBQL2IP0U2AaafOnpI/edit?usp=sharing)
+- Video recording of the class: [https://youtu.be/6VPXlQpAXMc](https://youtu.be/6VPXlQpAXMc)
+- Lecture slides w03 [pdf, pptx https://heibox.uni-heidelberg.de/d/2bc4abb37070491f80fa/](https://heibox.uni-heidelberg.de/d/2bc4abb37070491f80fa/)
 
 Week04: 23 Nov – 29 Nov 2020:
 
