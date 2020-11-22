@@ -46,7 +46,7 @@ Week04: 23 Nov – 29 Nov 2020:
 — Is there evidence of semantic prosodies of these words?
 
 Please present your findings as a short (PPT/PDF/Open Office) presentation, up to 5 slides.
-
+You can upload your slides onto our Slack channel or send them to me via email before our class.
 
 Week05: 30 Nov – 06 Dec 2020:
 
