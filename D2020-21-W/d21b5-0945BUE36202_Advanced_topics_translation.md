@@ -35,6 +35,7 @@ Week03: 16 Nov – 22 Nov 2020:
 
 Week04: 23 Nov – 29 Nov 2020:
 - Task:
+
 1. Please try to find culturally or linguistically marked concepts which may require overt translation, e.g.:
 - UK cultural concepts: "Right Honourable Friend’; "Scottish nationalism”
 - or linguistic expressions which cannot be translated literary, e.g.: “loom large; symptomatic; cause; happen"
