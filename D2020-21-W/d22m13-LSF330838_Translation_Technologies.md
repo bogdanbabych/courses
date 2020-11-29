@@ -36,6 +36,7 @@ Week03: 16 Nov – 22 Nov 2020:
 - Lecture slides w03 [pdf, pptx https://heibox.uni-heidelberg.de/d/2bc4abb37070491f80fa/](https://heibox.uni-heidelberg.de/d/2bc4abb37070491f80fa/)
 
 Week04: 23 Nov – 29 Nov 2020:
+- Video recording of the class: [https://youtu.be/KYUPhPiFQ2s](https://youtu.be/KYUPhPiFQ2s)
 
 Week05: 30 Nov – 06 Dec 2020:
 

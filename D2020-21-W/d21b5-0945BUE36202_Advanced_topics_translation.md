@@ -34,6 +34,7 @@ Week03: 16 Nov – 22 Nov 2020:
 - Lecture slides w03: [https://heibox.uni-heidelberg.de/d/7d403a4c50d44bab94ba/](https://heibox.uni-heidelberg.de/d/7d403a4c50d44bab94ba/)
 
 Week04: 23 Nov – 29 Nov 2020:
+- Video recording of the class: [https://youtu.be/wyCVLrMe8EU](https://youtu.be/wyCVLrMe8EU)
 - Task:
 
 1. Please try to find culturally or linguistically marked concepts which may require overt translation, e.g.:

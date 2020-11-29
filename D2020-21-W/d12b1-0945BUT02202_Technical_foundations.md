@@ -30,6 +30,7 @@ Week03: 16 Nov – 22 Nov 2020:
 - Video recording of the class: [https://youtu.be/rx9ggZgtccc](https://youtu.be/rx9ggZgtccc)
 
 Week04: 23 Nov – 29 Nov 2020:
+- Video recording of the class: [https://youtu.be/RDA5XgnFhGU](https://youtu.be/RDA5XgnFhGU)
 
 Week05: 30 Nov – 06 Dec 2020:
 

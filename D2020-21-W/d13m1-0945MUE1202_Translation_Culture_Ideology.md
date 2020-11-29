@@ -30,6 +30,7 @@ Week03: 16 Nov – 22 Nov 2020:
 - Video recording of the class (presentations, the link is available via Moodle): [https://moodle.uni-heidelberg.de/course/view.php?id=5164#section-3](https://moodle.uni-heidelberg.de/course/view.php?id=5164#section-3)
 
 Week04: 23 Nov – 29 Nov 2020:
+- Video recording of the class: [https://youtu.be/7t9D2I1U5hs](https://youtu.be/7t9D2I1U5hs)
 
 Week05: 30 Nov – 06 Dec 2020:
 

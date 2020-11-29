@@ -1,4 +1,35 @@
 
+[students' work]
+[lexterm]
+	 Marcel Leschnik
+	Frag0r/LexTerm
+	extract terms:
+	https://github.com/Frag0r/LexTerm
+	https://github.com/Frag0r/LexTerm/blob/master/src/extract_terms.py
+	https://github.com/Frag0r/LexTerm/tree/master/data
+
+	Frag0r/Case-Study-Lexi-Memes
+		https://github.com/Frag0r/Case-Study-Lexi-Memes
+
+		
+
+
+	melon-panda/0945BUT10201-lexterm-lw
+
+
+[classes]
+	Terminology
+		https://www.youtube.com/watch?v=E4paI34xA8g&feature=youtu.be
+		https://www.youtube.com/watch?v=v4wA3cz9two
+
+
+		Terminology-and-Lexicogrphay-2020-class-presentations
+		https://docs.google.com/spreadsheets/d/1c2F5oyCTx-EEDGBBaqegkMDjZrOLAattgzL9HRpDnTM/edit#gid=0
+
+
+
+
+
 [platforms]
 	https://pruefer.uni-heidelberg.de/LogoutServlet?action=autologout
 	sil.do
@@ -560,9 +591,9 @@ links to articles to analyse:
 
 
 		To present
-			Bojana Slavkovic
+			+ Bojana Slavkovic
 			+ Franziska Wolf
-			Julia Graf
+			+ Julia Graf
 			+ Leah Gramlich
 			+ Lisa Stefan
 			+ Maku Pérez / Ruano Perez Ruiz
@@ -570,7 +601,7 @@ links to articles to analyse:
 			+ Miriam Reuther
 			+ Nicki Aza
 			+ Tanja Herzog
-			
+
 			Madaro Alessia
 
 
@@ -583,3 +614,143 @@ links to articles to analyse:
 			Felix Abraham
 			Fjodor Tševakov
 			Irene Tenorio
+
+
+-- the link to translation project materials
+
+	https://www.nationalgeographic.com/environment/energy/reference/renewable-energy/
+
+
+technological components:
+Reversing the language direction of a translation memory in SDL Trados Studio
+	- https://gateway.sdl.com/apex/communityknowledge?articleName=000001754
+
+
+modifying tm
+https://help.memsource.com/hc/en-us/articles/360013696840-Modify-Translation-Memories#edit-translation-memory-content-0-0
+
+
+
+	searches:
+		refugee / migrant
+		https://app.sketchengine.eu/#sketchdiff?corpname=preloaded%2Feuroparl7_en&tab=basic&lemma=refugee&lemma2=migrant&showresults=1
+
+tranlsation theory:
+	CULTURAL FILTERING IN LANGUAGE TRANSLATION
+	Wiralodra English Journal
+	Atikah Wati
+		https://www.academia.edu/37757806/CULTURAL_FILTERING_IN_LANGUAGE_TRANSLATION
+
+
+
+research questions...
+	https://writingcenter.gmu.edu/guides/how-to-write-a-research-question
+
+	http://globetrotter.berkeley.edu/people/Searle/searle-con3.html
+	http://globetrotter.berkeley.edu/people/Searle/searle-con0.html
+	https://www.youtube.com/watch?v=Dvn6SIWCQpo
+	https://plato.stanford.edu/entries/einstein-philscience/
+
+
+visualisation
+	https://www.wordclouds.com/
+
+
+
+SketchEngine queries
+	block
+	> block exemption
+	https://app.sketchengine.eu/#parconcordance?corpname=preloaded%2Feuroparl7_en&tab=advanced&formValue=%7B%22queryselector%22%3A%22iquery%22%2C%22keyword%22%3A%22block%20exemption%22%2C%22lpos%22%3A%22%22%2C%22wpos%22%3A%22%22%2C%22default_attr%22%3A%22%22%2C%22qmcase%22%3A%22%22%2C%22cql%22%3A%22%22%7D&structs=s%2Cg&itemsPerPage=100&formparts=%5B%7B%22corpname%22%3A%22europarl7_es%22%2C%22formValue%22%3A%7B%22queryselector%22%3A%22iquery%22%2C%22keyword%22%3A%22%22%2C%22lpos%22%3A%22%22%2C%22wpos%22%3A%22%22%2C%22default_attr%22%3A%22%22%2C%22qmcase%22%3A%22%22%2C%22cql%22%3A%22%22%2C%22filter_nonempty%22%3Atrue%2C%22pcq_pos_neg%22%3A%22pos%22%7D%7D%5D&operations=%5B%7B%22name%22%3A%22iquery%22%2C%22arg%22%3A%22block%20exemption%22%2C%22active%22%3Atrue%2C%22query%22%3A%7B%22queryselector%22%3A%22iqueryrow%22%2C%22iquery%22%3A%22block%20exemption%22%2C%22sel_aligned%22%3A%5B%22europarl7_es%22%5D%2C%22queryselector_europarl7_es%22%3A%22iqueryrow%22%2C%22iquery_europarl7_es%22%3A%22%22%2C%22pcq_pos_neg_europarl7_es%22%3A%22pos%22%2C%22filter_nonempty_europarl7_es%22%3A%22on%22%7D%2C%22id%22%3A1460%7D%5D&showresults=1&results_screen=concordance
+
+
+	sketch diff
+	outspoken vs. frank
+	https://app.sketchengine.eu/#sketchdiff?corpname=preloaded%2Fbnc2_tt21&tab=advanced&lemma=outspoken&lemma2=frank&showresults=1
+
+	govermnet vs. regime
+	https://app.sketchengine.eu/#sketchdiff?corpname=preloaded%2Feuroparl7_en&tab=basic&lemma=government&lemma2=regime&showresults=1
+
+	cql [lemma="look" & tag="V.*"] [word="forward"] [word="to"]
+	[lemma="look" & tag="V.*"] [word="forward"] [word="to"] []{1,2} [tag="VVG"]
+	https://app.sketchengine.eu/#parconcordance?corpname=preloaded%2Feuroparl7_en&tab=advanced&formValue=%7B%22queryselector%22%3A%22cql%22%2C%22keyword%22%3A%22%22%2C%22lpos%22%3A%22%22%2C%22wpos%22%3A%22%22%2C%22default_attr%22%3A%22%22%2C%22qmcase%22%3A%22%22%2C%22cql%22%3A%22%5Blemma%3D%5C%22look%5C%22%20%26%20tag%3D%5C%22V.*%5C%22%5D%20%5Bword%3D%5C%22forward%5C%22%5D%20%5Bword%3D%5C%22to%5C%22%5D%20%5B%5D%7B1%2C2%7D%20%5Btag%3D%5C%22VVG%5C%22%5D%22%7D&structs=s%2Cg&itemsPerPage=100&formparts=%5B%7B%22corpname%22%3A%22europarl7_de_1%22%2C%22formValue%22%3A%7B%22queryselector%22%3A%22iquery%22%2C%22keyword%22%3A%22%22%2C%22lpos%22%3A%22%22%2C%22wpos%22%3A%22%22%2C%22default_attr%22%3A%22%22%2C%22qmcase%22%3A%22%22%2C%22cql%22%3A%22%22%2C%22filter_nonempty%22%3Atrue%2C%22pcq_pos_neg%22%3A%22pos%22%7D%7D%5D&operations=%5B%7B%22name%22%3A%22cql%22%2C%22arg%22%3A%22%5Blemma%3D%5C%22look%5C%22%20%26%20tag%3D%5C%22V.*%5C%22%5D%20%5Bword%3D%5C%22forward%5C%22%5D%20%5Bword%3D%5C%22to%5C%22%5D%20%5B%5D%7B1%2C2%7D%20%5Btag%3D%5C%22VVG%5C%22%5D%22%2C%22active%22%3Atrue%2C%22query%22%3A%7B%22queryselector%22%3A%22cqlrow%22%2C%22cql%22%3A%22%5Blemma%3D%5C%22look%5C%22%20%26%20tag%3D%5C%22V.*%5C%22%5D%20%5Bword%3D%5C%22forward%5C%22%5D%20%5Bword%3D%5C%22to%5C%22%5D%20%5B%5D%7B1%2C2%7D%20%5Btag%3D%5C%22VVG%5C%22%5D%22%2C%22sel_aligned%22%3A%5B%22europarl7_de_1%22%5D%2C%22default_attr%22%3A%22%22%2C%22queryselector_europarl7_de_1%22%3A%22iqueryrow%22%2C%22iquery_europarl7_de_1%22%3A%22%22%2C%22pcq_pos_neg_europarl7_de_1%22%3A%22pos%22%2C%22filter_nonempty_europarl7_de_1%22%3A%22on%22%7D%2C%22id%22%3A7518%7D%5D&showresults=1&results_screen=concordance
+
+	[lemma="look" & tag="V.*"] [word="forward"] [word="to"] []{1,2} [tag="VVG"]
+	BNC
+	https://app.sketchengine.eu/#concordance?corpname=preloaded%2Fbnc2_tt21&tab=advanced&queryselector=cql&itemsPerPage=50&structs=s%2Cg&refs=%3Dbncdoc.alltyp&default_attr=lemma&cql=%5Blemma%3D%22look%22%20%26%20tag%3D%22V.*%22%5D%20%5Bword%3D%22forward%22%5D%20%5Bword%3D%22to%22%5D%20%5B%5D%7B1%2C2%7D%20%5Btag%3D%22VVG%22%5D&showresults=1&cb=slemma%3D%22look%22%26tag%3D%22V.*%22%23sword%3D%22forward%22%23sword%3D%22to%22%23d1%2C2%23stag%3D%22VVG%22&operations=%5B%7B%22name%22%3A%22cql%22%2C%22arg%22%3A%22%5Blemma%3D%5C%22look%5C%22%20%26%20tag%3D%5C%22V.*%5C%22%5D%20%5Bword%3D%5C%22forward%5C%22%5D%20%5Bword%3D%5C%22to%5C%22%5D%20%5B%5D%7B1%2C2%7D%20%5Btag%3D%5C%22VVG%5C%22%5D%22%2C%22active%22%3Atrue%2C%22query%22%3A%7B%22queryselector%22%3A%22cqlrow%22%2C%22cql%22%3A%22%5Blemma%3D%5C%22look%5C%22%20%26%20tag%3D%5C%22V.*%5C%22%5D%20%5Bword%3D%5C%22forward%5C%22%5D%20%5Bword%3D%5C%22to%5C%22%5D%20%5B%5D%7B1%2C2%7D%20%5Btag%3D%5C%22VVG%5C%22%5D%22%2C%22default_attr%22%3A%22lemma%22%7D%2C%22id%22%3A9352%7D%5D
+
+	affect vs. cause
+	BNC
+	https://app.sketchengine.eu/#sketchdiff?corpname=preloaded%2Fbnc2_tt21&tab=advanced&lemma=affect&lemma2=cause&lpos=-v&maxcommon=42&showresults=1
+
+	mit alle Kraft, Gewalt, Wucht...
+	 [lemma="mit"] [lemma="alle"] [lemma="Macht" | lemma=
+	[lemma="mit"] [lemma="alle"] [lemma="Macht" | lemma="Kraft" | lemma="Gewalt" | lemma="Wucht"]
+	Europarl 7
+	https://app.sketchengine.eu/#parconcordance?corpname=preloaded%2Feuroparl7_de_1&tab=advanced&formValue=%7B%22queryselector%22%3A%22cql%22%2C%22keyword%22%3A%22%22%2C%22lpos%22%3A%22%22%2C%22wpos%22%3A%22%22%2C%22default_attr%22%3A%22%22%2C%22qmcase%22%3A%22%22%2C%22cql%22%3A%22%5Blemma%3D%5C%22mit%5C%22%5D%20%5Blemma%3D%5C%22alle%5C%22%5D%20%5Blemma%3D%5C%22Macht%5C%22%20%7C%20lemma%3D%5C%22Kraft%5C%22%20%7C%20lemma%3D%5C%22Gewalt%5C%22%20%7C%20lemma%3D%5C%22Wucht%5C%22%5D%22%2C%22cb%22%3A%22slemma%3D%5C%22mit%5C%22%23slemma%3D%5C%22alle%5C%22%23slemma%3D%5C%22Macht%5C%22%7Clemma%3D%5C%22Kraft%5C%22%7Clemma%3D%5C%22Gewalt%5C%22%7Clemma%3D%5C%22Wucht%5C%22%22%7D&structs=s%2Cg&refs=%23&itemsPerPage=100&formparts=%5B%7B%22corpname%22%3A%22europarl7_en%22%2C%22formValue%22%3A%7B%22queryselector%22%3A%22iquery%22%2C%22keyword%22%3A%22%22%2C%22lpos%22%3A%22%22%2C%22wpos%22%3A%22%22%2C%22default_attr%22%3A%22%22%2C%22qmcase%22%3A%22%22%2C%22cql%22%3A%22%22%2C%22filter_nonempty%22%3Atrue%2C%22pcq_pos_neg%22%3A%22pos%22%7D%7D%5D&operations=%5B%7B%22name%22%3A%22cql%22%2C%22arg%22%3A%22%5Blemma%3D%5C%22mit%5C%22%5D%20%5Blemma%3D%5C%22alle%5C%22%5D%20%5Blemma%3D%5C%22Macht%5C%22%20%7C%20lemma%3D%5C%22Kraft%5C%22%20%7C%20lemma%3D%5C%22Gewalt%5C%22%20%7C%20lemma%3D%5C%22Wucht%5C%22%5D%22%2C%22active%22%3Atrue%2C%22query%22%3A%7B%22queryselector%22%3A%22cqlrow%22%2C%22cql%22%3A%22%5Blemma%3D%5C%22mit%5C%22%5D%20%5Blemma%3D%5C%22alle%5C%22%5D%20%5Blemma%3D%5C%22Macht%5C%22%20%7C%20lemma%3D%5C%22Kraft%5C%22%20%7C%20lemma%3D%5C%22Gewalt%5C%22%20%7C%20lemma%3D%5C%22Wucht%5C%22%5D%22%2C%22sel_aligned%22%3A%5B%22europarl7_en%22%5D%2C%22default_attr%22%3A%22%22%2C%22queryselector_europarl7_en%22%3A%22iqueryrow%22%2C%22iquery_europarl7_en%22%3A%22%22%2C%22pcq_pos_neg_europarl7_en%22%3A%22pos%22%2C%22filter_nonempty_europarl7_en%22%3A%22on%22%7D%2C%22id%22%3A5992%7D%5D&showresults=1&results_screen=concordance
+
+refugee vs. migrant
+Europarl 7
+	https://app.sketchengine.eu/#sketchdiff?corpname=preloaded%2Feuroparl7_en&tab=basic&lemma=refugee&lemma2=migrant&showresults=1
+
+
+concordance 'refugee'
+Europarl 7
+	https://app.sketchengine.eu/#parconcordance?corpname=preloaded%2Feuroparl7_en&tab=advanced&formValue=%7B%22queryselector%22%3A%22lemma%22%2C%22keyword%22%3A%22refugee%22%2C%22lpos%22%3A%22%22%2C%22wpos%22%3A%22%22%2C%22default_attr%22%3A%22%22%2C%22qmcase%22%3A%22%22%2C%22cql%22%3A%22%22%7D&structs=s%2Cg&itemsPerPage=100&formparts=%5B%7B%22corpname%22%3A%22europarl7_de_1%22%2C%22formValue%22%3A%7B%22queryselector%22%3A%22iquery%22%2C%22keyword%22%3A%22%22%2C%22lpos%22%3A%22%22%2C%22wpos%22%3A%22%22%2C%22default_attr%22%3A%22%22%2C%22qmcase%22%3A%22%22%2C%22cql%22%3A%22%22%2C%22filter_nonempty%22%3Atrue%2C%22pcq_pos_neg%22%3A%22pos%22%7D%7D%5D&operations=%5B%7B%22name%22%3A%22lemma%22%2C%22arg%22%3A%22refugee%22%2C%22active%22%3Atrue%2C%22query%22%3A%7B%22queryselector%22%3A%22lemmarow%22%2C%22lemma%22%3A%22refugee%22%2C%22sel_aligned%22%3A%5B%22europarl7_de_1%22%5D%2C%22lpos%22%3A%22%22%2C%22qmcase%22%3A%22%22%2C%22queryselector_europarl7_de_1%22%3A%22iqueryrow%22%2C%22iquery_europarl7_de_1%22%3A%22%22%2C%22pcq_pos_neg_europarl7_de_1%22%3A%22pos%22%2C%22filter_nonempty_europarl7_de_1%22%3A%22on%22%7D%2C%22id%22%3A8997%7D%5D&showresults=1&results_screen=concordance
+
+
+
+concordance: lemma 'cause'
+Europarl 7
+	https://app.sketchengine.eu/#parconcordance?corpname=preloaded%2Feuroparl7_en&tab=advanced&formValue=%7B%22queryselector%22%3A%22lemma%22%2C%22keyword%22%3A%22cause%22%2C%22lpos%22%3A%22-v%22%2C%22wpos%22%3A%22%22%2C%22default_attr%22%3A%22%22%2C%22qmcase%22%3A0%2C%22cql%22%3A%22%22%7D&structs=s%2Cg&itemsPerPage=100&formparts=%5B%7B%22corpname%22%3A%22europarl7_de_1%22%2C%22formValue%22%3A%7B%22queryselector%22%3A%22iquery%22%2C%22keyword%22%3A%22%22%2C%22lpos%22%3A%22%22%2C%22wpos%22%3A%22%22%2C%22default_attr%22%3A%22%22%2C%22qmcase%22%3A%22%22%2C%22cql%22%3A%22%22%2C%22filter_nonempty%22%3Atrue%2C%22pcq_pos_neg%22%3A%22pos%22%7D%7D%5D&operations=%5B%7B%22name%22%3A%22lemma%22%2C%22arg%22%3A%22cause%22%2C%22active%22%3Atrue%2C%22query%22%3A%7B%22queryselector%22%3A%22lemmarow%22%2C%22lemma%22%3A%22cause%22%2C%22sel_aligned%22%3A%5B%22europarl7_de_1%22%5D%2C%22lpos%22%3A%22-v%22%2C%22qmcase%22%3A0%2C%22queryselector_europarl7_de_1%22%3A%22iqueryrow%22%2C%22iquery_europarl7_de_1%22%3A%22%22%2C%22pcq_pos_neg_europarl7_de_1%22%3A%22pos%22%2C%22filter_nonempty_europarl7_de_1%22%3A%22on%22%7D%2C%22id%22%3A8556%7D%5D&showresults=1&results_screen=concordance
+
+dictionary:
+	cause
+	https://dict.leo.org/german-english/cause
+	https://dict.leo.org/german-english/produce
+
+Sketch differences:
+	Cause vs. Produce
+	https://app.sketchengine.eu/#sketchdiff?corpname=preloaded%2Fbnc2_tt21&tab=advanced&lemma=cause&lemma2=produce&lpos=-v&showresults=1
+
+
+
+
+
+
+	Terminology extraction
+		https://terms.sketchengine.eu/
+
+parallel corpora in Sketch Engine
+	Setting up parallel and multilingual corpora
+	https://www.sketchengine.eu/guide/setting-up-parallel-corpora/#tab-id-2
+
+loom large in Leeds corpus
+http://corpus.leeds.ac.uk/cgi-bin/cqp.pl?q=loom+large&c=EP-ENDE-EN&parallel=EP-ENDE-DE&searchtype=conc&contextsize=60c&sort1=word&sort2=right&terminate=1000&llstat=on&cleft=2&cright=2&cfilter=
+
+cernerse
+http://corpus.leeds.ac.uk/cgi-bin/cqp.pl?q=cernerse&c=INTERNET-ES&searchtype=conc&contextsize=60c&sort1=word&sort2=right&terminate=100&llstat=on&cleft=0&cright=1&cfilter=
+
+
+
+semantic prosody in judgement paper
+Semantic Prosody and Judgment
+April 2016Journal of Experimental Psychology General 145(7):882-896
+DOI: 10.1037/xge0000178
+David HauserDavid HauserNorbert SchwarzNorbert Schwarz
+	https://www.researchgate.net/publication/299859911_Semantic_Prosody_and_Judgment
+	file:///Users/bogdan/Downloads/Hauser_Schwarz_Semantic_prosody_JEPG_2016_preprint%20(2).pdf
+
+Sinclair Reading Concordances - review
+	https://www.academia.edu/1115995/Reading_Concordances
+
+Google search:
+	corpus linguistics semantic prosodies
+https://www.google.com/search?q=corpus+linguistics+semantic+prosodies&oq=corpus+linguistics+semantic+prosodies&aqs=chrome..69i57.12202j0j7&sourceid=chrome&ie=UTF-8
+
+
+
+cultural filtering in translation
+CULTURAL FILTERING IN LANGUAGE TRANSLATION
+Wiralodra English Journal
+Atikah Wati
+	https://www.academia.edu/37757806/CULTURAL_FILTERING_IN_LANGUAGE_TRANSLATION
