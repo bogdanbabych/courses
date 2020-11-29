@@ -36,6 +36,8 @@ Week04: 23 Nov – 29 Nov 2020:
 
 
 Week05: 30 Nov – 06 Dec 2020:
+- Presentation slides w04: [pdf, ppt: https://heibox.uni-heidelberg.de/d/2c83556eff124ed0ab86/](https://heibox.uni-heidelberg.de/d/2c83556eff124ed0ab86/)
+
 
 Week06: 07 Dec – 13 Dec 2020:
 
