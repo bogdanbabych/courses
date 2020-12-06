@@ -11,7 +11,7 @@
 	Frag0r/Case-Study-Lexi-Memes
 		https://github.com/Frag0r/Case-Study-Lexi-Memes
 
-		
+
 
 
 	melon-panda/0945BUT10201-lexterm-lw
@@ -754,3 +754,16 @@ CULTURAL FILTERING IN LANGUAGE TRANSLATION
 Wiralodra English Journal
 Atikah Wati
 	https://www.academia.edu/37757806/CULTURAL_FILTERING_IN_LANGUAGE_TRANSLATION
+
+
+
+	|
+	Anton Blaubach, Irene Tenorio, Lisa Stephan, Miriam Reuther, Niki Aza
+	Room 2(5)
+	|
+	Bojana Slavkovic, Dana Janocha, Julia Graf, Leah Gramlich, Macu Pérez
+	Room 3(4)
+	|
+	Dorothee Oehler, Fjodor, Melanie Gadhammer, Tanja Herzog
+
+	

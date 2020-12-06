@@ -34,6 +34,7 @@ Week04: 23 Nov – 29 Nov 2020:
 
 Week05: 30 Nov – 06 Dec 2020:
 - Rewriting text with political bias: [docx, pdf https://heibox.uni-heidelberg.de/d/faf50eb426484ea29819/](https://heibox.uni-heidelberg.de/d/faf50eb426484ea29819/)
+- Video recording of the class: [https://youtu.be/sR40v_ERzgQ](https://youtu.be/sR40v_ERzgQ)
 
 Week06: 07 Dec – 13 Dec 2020:
 

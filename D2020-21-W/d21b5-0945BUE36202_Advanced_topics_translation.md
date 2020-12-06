@@ -51,6 +51,7 @@ Please present your findings as a short (PPT/PDF/Open Office) presentation, up t
 You can upload your slides onto our Slack channel or send them to me via email before our class.
 
 Week05: 30 Nov – 06 Dec 2020:
+- Video recording of the class: [https://youtu.be/1Wmcp8wt1Kc](https://youtu.be/1Wmcp8wt1Kc)
 
 Week06: 07 Dec – 13 Dec 2020:
 
