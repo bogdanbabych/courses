@@ -40,6 +40,7 @@ Week05: 30 Nov – 06 Dec 2020:
 - Video recording of the class: [https://youtu.be/pnWJGE2bH4o](https://youtu.be/pnWJGE2bH4o)
 
 Week06: 07 Dec – 13 Dec 2020:
+- Video recording of the class: [https://youtu.be/X3Tx378l778](https://youtu.be/X3Tx378l778)
 
 Week07: 14 Dec – 20 Dec 2020:
 

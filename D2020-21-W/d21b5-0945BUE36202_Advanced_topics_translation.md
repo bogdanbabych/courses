@@ -54,6 +54,7 @@ Week05: 30 Nov – 06 Dec 2020:
 - Video recording of the class: [https://youtu.be/1Wmcp8wt1Kc](https://youtu.be/1Wmcp8wt1Kc)
 
 Week06: 07 Dec – 13 Dec 2020:
+- Link to recommended video lectures: [https://www.dnb.de/EN/Ueber-uns/EU-Ratspraesidentschaft/translatingEuropeVortraege.html?nn=718448](https://www.dnb.de/EN/Ueber-uns/EU-Ratspraesidentschaft/translatingEuropeVortraege.html?nn=718448)
 
 Week07: 14 Dec – 20 Dec 2020:
 
