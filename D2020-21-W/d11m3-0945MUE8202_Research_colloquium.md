@@ -44,6 +44,16 @@ Week06: 07 Dec – 13 Dec 2020:
 
 Week07: 14 Dec – 20 Dec 2020:
 
+- Presentations:
+  - Harden, T. (2012). The Awful German Language, or, Is “Die Geistige Entwicklung”“The Mental Development”?. Translation and Philosophy, Berna, Peter Lang, 13-26. (by Vanessa)
+  - Chapter 4 of Saldanha, G., & O'Brien, S. (2014). Research methodologies in translation studies. Routledge. Chapter 4: Process-oriented research. (by Jennifer)
+  - Chapter 6 of Saldanha, G., & O'Brien, S. (2014). Research methodologies in translation studies. Routledge. Chapter 6: Context-oriented research: Case studies. (by Tülin)
+  - (If time allows we will also look into principles of statistical analysis and design of quantitative experiments.)
+  - The link for choosing / suggesting articles or chapters for your presentations (if you have not yet done so) is [here](https://docs.google.com/spreadsheets/d/1D4Qt8T4D3VU6oSGQjUV5eVAqaPhexecT-fzzJArY4QE/edit?usp=sharing).
+
+
+
+
 Christmas break: 21 Dec – 10 Jan (3 weeks, no classes)  
 
 Week08: 11 Jan – 17 Jan 2021:
