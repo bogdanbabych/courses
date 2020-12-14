@@ -43,7 +43,7 @@ Week05: 30 Nov – 06 Dec 2020:
 
 Week06: 07 Dec – 13 Dec 2020:
 - Link to recommended video lectures: [https://www.dnb.de/EN/Ueber-uns/EU-Ratspraesidentschaft/translatingEuropeVortraege.html?nn=718448](https://www.dnb.de/EN/Ueber-uns/EU-Ratspraesidentschaft/translatingEuropeVortraege.html?nn=718448)
-
+- Video recording of the demo of creating memsource project with admin rights [https://youtu.be/Ia7oZ2TZr9A](https://youtu.be/Ia7oZ2TZr9A)
 
 Week07: 14 Dec – 20 Dec 2020:
 

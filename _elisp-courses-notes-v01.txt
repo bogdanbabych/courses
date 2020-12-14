@@ -766,4 +766,61 @@ Atikah Wati
 	|
 	Dorothee Oehler, Fjodor, Melanie Gadhammer, Tanja Herzog
 
-	
+
+
+Questions:
+Digital transformation of the translation profession
+Christos Ellinides
+
+Directorate-General for Translation uses its multilingual >1 Billion-sentence database to:
+- quickly find necessary translated documents for the European Commission
+- build neural machine translation systems for European businesses and governments
+- standardise terminology across the EU languages in domains such as of European law
+- support their in-house and freelance translators in acquiring new Computer-Assisted langguage
+
+
+
+Translation and globalization: economic, political and cultural issues:
+Gisèle Sapiro
+
+Unequal share of translated literature in different countries, for different source languages is attributed to:
+- different levels of government support for translation projects in different countries
+- existance of estabilshed traditions of literary and scientific translation
+- unequal economic, political and cultural balances of power
+- intellectual and aesthetic motivation for translators
+
+
+Europe: What After Multilingualism?
+Boris Buden
+
+According to Jürgen Trabant, re-vernacularization of European languages refers to the situation
+- where religious services are once again carried out in local languages of communities
+
+- where national languages are used in international politics and diplomacy instead of English
+- where translation technologies allow speakers to freely overcome the language barrier
+- where European languages achieve more important cultural role in international discourse
+- where national languages have retreated to unimportant discourse and domestic usage
+
+
+Do we need human translators in the age of AI and MT?
+Josef van Genabith
+
+What is van Genabith's argument for learning foreign languages and translation in the age of human-parity MT:
+- As in mathematics, computer assisted technologies will complement human competences and roles
+- For literature and poetry translation it will not be possible to achieve human quality of MT
+- Technical legal and medical translation require true human understanding of the source text
+- We will need human translations for small languages with insufficient resources for builging good MT
+
+
+
+
+Well-resourced domains and languages
+sensitive to change in subject domain...
+
+human parity in machine translation
+domain and languages with enough resources
+	> artificial newral networks...
+
+
+
+and increase productivity in more creative tasks
