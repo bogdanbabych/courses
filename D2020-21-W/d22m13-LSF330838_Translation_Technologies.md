@@ -46,6 +46,8 @@ Week06: 07 Dec – 13 Dec 2020:
 - Video recording of the demo of creating memsource project with admin rights [https://youtu.be/Ia7oZ2TZr9A](https://youtu.be/Ia7oZ2TZr9A)
 
 Week07: 14 Dec – 20 Dec 2020:
+- Literature and assessment [folder: https://heibox.uni-heidelberg.de/d/2601f839d4a9480ca28a/](https://heibox.uni-heidelberg.de/d/2601f839d4a9480ca28a/)
+
 
 Christmas break: 21 Dec – 10 Jan (3 weeks, no classes)  
 
