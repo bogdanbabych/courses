@@ -47,6 +47,7 @@ Week06: 07 Dec – 13 Dec 2020:
 
 Week07: 14 Dec – 20 Dec 2020:
 - Literature and assessment [folder: https://heibox.uni-heidelberg.de/d/2601f839d4a9480ca28a/](https://heibox.uni-heidelberg.de/d/2601f839d4a9480ca28a/)
+- Link to sign-up sheet to presentations [Google Doc](https://docs.google.com/spreadsheets/d/1MUpUQvy8VU4nmUF-SkMXf0emnT8hPbk1wLNo9F-TsiE/edit?usp=sharing)
 
 
 Christmas break: 21 Dec – 10 Jan (3 weeks, no classes)  
