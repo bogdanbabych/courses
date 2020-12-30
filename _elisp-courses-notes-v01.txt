@@ -776,16 +776,15 @@ Directorate-General for Translation uses its multilingual >1 Billion-sentence da
 - quickly find necessary translated documents for the European Commission
 - build neural machine translation systems for European businesses and governments
 - standardise terminology across the EU languages in domains such as of European law
-- support their in-house and freelance translators in acquiring new Computer-Assisted langguage
+- support their in-house and freelance translators in acquiring new Computer-Assisted Translation skills
 
 
 
-Translation and globalization: economic, political and cultural issues:
-Gisèle Sapiro
+Translation and globalization: economic, political and cultural issues. Gisèle Sapiro
 
 Unequal share of translated literature in different countries, for different source languages is attributed to:
 - different levels of government support for translation projects in different countries
-- existance of estabilshed traditions of literary and scientific translation
+- existence of established traditions of literary and scientific translation
 - unequal economic, political and cultural balances of power
 - intellectual and aesthetic motivation for translators
 
@@ -812,6 +811,11 @@ What is van Genabith's argument for learning foreign languages and translation i
 - We will need human translations for small languages with insufficient resources for builging good MT
 
 
+
+
+
+
+- where religious services are once again carried out in local languages of communities
 
 
 Well-resourced domains and languages
