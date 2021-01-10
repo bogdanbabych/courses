@@ -40,6 +40,7 @@ Week06: 07 Dec – 13 Dec 2020:
 - Video recording of the class: [https://youtu.be/J9iRhiDTljE](https://youtu.be/J9iRhiDTljE)
 
 Week07: 14 Dec – 20 Dec 2020:
+- Video recording of the class: [https://youtu.be/jWWFPMPSqtE](https://youtu.be/jWWFPMPSqtE)
 
 Christmas break: 21 Dec – 10 Jan (3 weeks, no classes)  
 

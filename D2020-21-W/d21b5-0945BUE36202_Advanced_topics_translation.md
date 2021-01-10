@@ -57,6 +57,7 @@ Week06: 07 Dec – 13 Dec 2020:
 - Link to recommended video lectures: [https://www.dnb.de/EN/Ueber-uns/EU-Ratspraesidentschaft/translatingEuropeVortraege.html?nn=718448](https://www.dnb.de/EN/Ueber-uns/EU-Ratspraesidentschaft/translatingEuropeVortraege.html?nn=718448)
 
 Week07: 14 Dec – 20 Dec 2020:
+- Video recording of the class: [https://youtu.be/-W2QPozpIrw](https://youtu.be/-W2QPozpIrw)
 
 Christmas break: 21 Dec – 10 Jan (3 weeks, no classes)  
 

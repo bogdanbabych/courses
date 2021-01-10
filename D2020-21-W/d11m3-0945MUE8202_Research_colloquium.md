@@ -44,6 +44,8 @@ Week06: 07 Dec – 13 Dec 2020:
 
 Week07: 14 Dec – 20 Dec 2020:
 
+- Video recording of the class: [https://youtu.be/xgGKr9SeeIE](https://youtu.be/xgGKr9SeeIE)
+
 - Presentations:
   - Harden, T. (2012). The Awful German Language, or, Is “Die Geistige Entwicklung”“The Mental Development”?. Translation and Philosophy, Berna, Peter Lang, 13-26. (by Vanessa)
   - Chapter 4 of Saldanha, G., & O'Brien, S. (2014). Research methodologies in translation studies. Routledge. Chapter 4: Process-oriented research. (by Jennifer)
