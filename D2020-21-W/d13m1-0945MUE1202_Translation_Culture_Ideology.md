@@ -45,6 +45,7 @@ Week07: 14 Dec – 20 Dec 2020:
 Christmas break: 21 Dec – 10 Jan (3 weeks, no classes)  
 
 Week08: 11 Jan – 17 Jan 2021:
+- Video recording of the class: [https://youtu.be/rKpup85WS4U](https://youtu.be/rKpup85WS4U)
 
 Week09: 18 Jan – 24 Jan 2021:
 
