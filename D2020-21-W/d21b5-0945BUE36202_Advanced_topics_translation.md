@@ -11,6 +11,11 @@ We start this course on-line. Please join our Seminar Room:
 [**https://heiconf.uni-heidelberg.de/bab-eeq-ax3**](https://heiconf.uni-heidelberg.de/bab-eeq-ax3)  
 on Tuesday, 10:15 am. If any problems with computer audio, you can also dial in via the phone: +49 6221 431 0 410, and then enter Phone PIN: 4341-9332-8165
 
+##### PowerPoints of presentations
+
+Lisa Weygold: [Chapter 5 from Saldanha and O’Brien’s Research Methodologies in Translation Studies](https://moodle.uni-heidelberg.de/pluginfile.php/434381/mod_folder/content/0/Participant-oriented%20Research_Weygold.pptx?forcedownload=1)  (via Moodle). This powerpoint presentation includes more in-depth information about the topic and some important techniques and aspects
+
+
 ##### Course materials
 
 Week01: 02 Nov – 08 Nov 2020: Course Introduction  
