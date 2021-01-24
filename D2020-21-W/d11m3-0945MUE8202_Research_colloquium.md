@@ -62,6 +62,11 @@ Week08: 11 Jan – 17 Jan 2021:
 - Video recording of the class: [https://youtu.be/4xUVkik0PX4](https://youtu.be/4xUVkik0PX4)
 
 Week09: 18 Jan – 24 Jan 2021:
+- Video recording of the class: presentation [https://youtu.be/-oU3SDss8Sc](https://youtu.be/-oU3SDss8Sc)
+- Video recording of the class: statistical analysis example [https://youtu.be/W7lWYGLYy20](https://youtu.be/W7lWYGLYy20)
+
+
+
 
 Week10: 25 Jan – 31 Jan 2021:
 
