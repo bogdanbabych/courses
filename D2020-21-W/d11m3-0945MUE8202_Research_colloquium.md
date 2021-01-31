@@ -11,6 +11,10 @@ We start this course on-line. Please join our Seminar Room:
 [**https://heiconf.uni-heidelberg.de/bab-eeq-ax3**](https://heiconf.uni-heidelberg.de/bab-eeq-ax3)  
 on Monday, 10:15 am. If any problems with computer audio, you can also dial in via the phone: +49 6221 431 0 410, and then enter Phone PIN: 4341-9332-8165
 
+
+##### Pre-recorded presentations
+Aditi Rao and Ekaterini Dimitriou	In Other Words: A Coursebook on Translation. / Baker, Mona. London; New York : Routledge, 1992. Chapters 1,2 [https://1drv.ms/p/s!ArnoXKT1QkN3cLyrwtM_FiNEBY8?e=lSzg0y](https://1drv.ms/p/s!ArnoXKT1QkN3cLyrwtM_FiNEBY8?e=lSzg0y)
+
 ##### Course materials
 
 Week01: 02 Nov – 08 Nov 2020: Course Introduction  
@@ -65,10 +69,8 @@ Week09: 18 Jan – 24 Jan 2021:
 - Video recording of the class: presentation [https://youtu.be/-oU3SDss8Sc](https://youtu.be/-oU3SDss8Sc)
 - Video recording of the class: statistical analysis example [https://youtu.be/W7lWYGLYy20](https://youtu.be/W7lWYGLYy20)
 
-
-
-
 Week10: 25 Jan – 31 Jan 2021:
+- Video recording of the class: presentation [https://youtu.be/TNZWtEgVblw](https://youtu.be/TNZWtEgVblw)
 
 Week11: 01 Feb – 07 Feb 2021:   
 

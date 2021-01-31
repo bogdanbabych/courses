@@ -61,6 +61,7 @@ Week09: 18 Jan – 24 Jan 2021:
 - Video recording of the class: [https://youtu.be/rWnPu8N42lg](https://youtu.be/rWnPu8N42lg)
 
 Week10: 25 Jan – 31 Jan 2021:
+- Video recording of the class: presentation [https://youtu.be/jIsMEF5Vyxo](https://youtu.be/jIsMEF5Vyxo)
 
 Week11: 01 Feb – 07 Feb 2021:   
 

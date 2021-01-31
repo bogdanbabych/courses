@@ -50,8 +50,8 @@ Week09: 18 Jan – 24 Jan 2021:
 - Video recording of the class: [https://youtu.be/GEt6XvFVtVA](https://youtu.be/GEt6XvFVtVA)
 - Link to the project briefing: [https://heibox.uni-heidelberg.de/d/a148536fca2546a28745/](https://heibox.uni-heidelberg.de/d/a148536fca2546a28745/)
 
-
 Week10: 25 Jan – 31 Jan 2021:
+- Video recording of the class: presentation: check the link on Slack channel
 
 Week11: 01 Feb – 07 Feb 2021:   
 
