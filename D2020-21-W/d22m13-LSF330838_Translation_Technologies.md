@@ -70,7 +70,7 @@ Week10: 25 Jan – 31 Jan 2021:
 - Video recording of the class: presentation [https://youtu.be/jIsMEF5Vyxo](https://youtu.be/jIsMEF5Vyxo)
 
 Week11: 01 Feb – 07 Feb 2021:
-- Video recording: ADVANCED off-line presentation: Intro to Python scripting: dictionary from corpus [https://youtu.be/LZDNpAcbYJc](https://youtu.be/LZDNpAcbYJc); Scripts and datafiles can be downloaded from GitHub (in the command line, move to the directory where you wish to download the code and type: "git clone https://github.com/bogdanbabych/LSF-330838-Translation-Technologies.git): 
+- Video recording: ADVANCED off-line presentation: Intro to Python scripting: dictionary from corpus [https://youtu.be/LZDNpAcbYJc](https://youtu.be/LZDNpAcbYJc); Scripts and datafiles can be downloaded from GitHub [https://github.com/bogdanbabych/LSF-330838-Translation-Technologies](https://github.com/bogdanbabych/LSF-330838-Translation-Technologies) (in the command line, move to the directory where you wish to download the code and type: "git clone https://github.com/bogdanbabych/LSF-330838-Translation-Technologies.git): 
 
 
 Week12: 08 Feb – 14 Feb 2021:
