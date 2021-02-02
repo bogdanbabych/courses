@@ -14,6 +14,12 @@ We start this course on-line. Please join our Seminar Room:
 [**https://heiconf.uni-heidelberg.de/bab-eeq-ax3**](https://heiconf.uni-heidelberg.de/bab-eeq-ax3)  
 on Tuesday, 13:15 Central European Time. If any problems with computer audio, you can also dial in via the phone: +49 6221 431 0 410, and then enter Phone PIN: 4341-9332-8165
 
+##### Pre-recorded presentations
+Aditi Rao: Manning, C. D., & Schütze, H. 1999. Chapter 5, Sections 5.3, and 5.4 in Collocations in: Manning, C. D., & Schütze, H. (1999). Foundations of statistical natural language processing. MIT press. [https://1drv.ms/v/s!ArnoXKT1QkN3cuvMpkJ_zuwLxyk?e=WB3x8D](https://1drv.ms/v/s!ArnoXKT1QkN3cuvMpkJ_zuwLxyk?e=WB3x8D)
+Link:
+
+Ekaterini Dimitriou: Rey, A. 1995. Chapter 2: Theoretical Issues in Terminology. In: Rey, A., Sager, J. C., & de Bessé, B. (1995). Essays on terminology (Vol. 9, p. 222). J. Benjamins. [https://onedrive.live.com/edit.aspx?cid=d1a24878b4004498&page=view&resid=D1A24878B4004498!2492&parId=D1A24878B4004498!2489&app=PowerPoint](https://onedrive.live.com/edit.aspx?cid=d1a24878b4004498&page=view&resid=D1A24878B4004498!2492&parId=D1A24878B4004498!2489&app=PowerPoint)
+
 
 ##### Course materials
 
@@ -64,7 +70,8 @@ Week10: 25 Jan – 31 Jan 2021:
 - Video recording of the class: presentation [https://youtu.be/jIsMEF5Vyxo](https://youtu.be/jIsMEF5Vyxo)
 
 Week11: 01 Feb – 07 Feb 2021:
-- Video recording: ADVANCED off-line presentation: Intro to Python scripting: dictionary from corpus [https://youtu.be/LZDNpAcbYJc](https://youtu.be/LZDNpAcbYJc)
+- Video recording: ADVANCED off-line presentation: Intro to Python scripting: dictionary from corpus [https://youtu.be/LZDNpAcbYJc](https://youtu.be/LZDNpAcbYJc); Scripts and datafiles can be downloaded from GitHub (in the command line, move to the directory where you wish to download the code and type: "git clone https://github.com/bogdanbabych/LSF-330838-Translation-Technologies.git): 
+
 
 Week12: 08 Feb – 14 Feb 2021:
 
