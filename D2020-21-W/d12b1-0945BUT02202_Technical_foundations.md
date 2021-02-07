@@ -11,6 +11,11 @@ We start this course on-line. Please join our Seminar Room:
 [**https://heiconf.uni-heidelberg.de/bab-eeq-ax3**](https://heiconf.uni-heidelberg.de/bab-eeq-ax3)  
 on Monday, 12:15. If any problems with computer audio, you can also dial in via the phone: +49 6221 431 0 410, and then enter Phone PIN: 4341-9332-8165
 
+##### Submission of course assessment
+
+If you take the course for credit, please submit your case study / report / essay via Moodle (the submission area is at the top of the course page)
+Please submit you work by 15.03.2021. (If you need an extension, please let me know).
+
 ##### Course materials
 
 Week01: 02 Nov – 08 Nov 2020: Course Introduction  
@@ -53,7 +58,9 @@ Week09: 18 Jan – 24 Jan 2021:
 Week10: 25 Jan – 31 Jan 2021:
 - Video recording of the class: presentation: check the link on Slack channel
 
-Week11: 01 Feb – 07 Feb 2021:   
+Week11: 01 Feb – 07 Feb 2021:
+- Video recording of the class: presentation [https://youtu.be/DYgRCrnA2Xk](https://youtu.be/DYgRCrnA2Xk)
+
 
 Week12: 08 Feb – 14 Feb 2021:
 

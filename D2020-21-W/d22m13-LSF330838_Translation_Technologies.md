@@ -14,6 +14,12 @@ We start this course on-line. Please join our Seminar Room:
 [**https://heiconf.uni-heidelberg.de/bab-eeq-ax3**](https://heiconf.uni-heidelberg.de/bab-eeq-ax3)  
 on Tuesday, 13:15 Central European Time. If any problems with computer audio, you can also dial in via the phone: +49 6221 431 0 410, and then enter Phone PIN: 4341-9332-8165
 
+##### Submission of course assessment 
+
+If you take the course for credit, please submit your case study / report / essay via HeiBox:
+[https://heibox.uni-heidelberg.de/u/d/eb5e97279d2f41eba769/](https://heibox.uni-heidelberg.de/u/d/eb5e97279d2f41eba769/)
+Please submit you work by 16.03.2021. (if you need an extension, please let me know)
+
 ##### Pre-recorded presentations
 Aditi Rao: Manning, C. D., & Schütze, H. 1999. Chapter 5, Sections 5.3, and 5.4 in Collocations in: Manning, C. D., & Schütze, H. (1999). Foundations of statistical natural language processing. MIT press. [https://1drv.ms/v/s!ArnoXKT1QkN3cuvMpkJ_zuwLxyk?e=WB3x8D](https://1drv.ms/v/s!ArnoXKT1QkN3cuvMpkJ_zuwLxyk?e=WB3x8D)
 Link:
@@ -70,6 +76,7 @@ Week10: 25 Jan – 31 Jan 2021:
 - Video recording of the class: presentation [https://youtu.be/jIsMEF5Vyxo](https://youtu.be/jIsMEF5Vyxo)
 
 Week11: 01 Feb – 07 Feb 2021:
+- Video recording of the class: presentation [https://youtu.be/xtB44d2Ryzs](https://youtu.be/xtB44d2Ryzs)
 - Video recording: ADVANCED off-line presentation: Intro to Python scripting: dictionary from corpus [https://youtu.be/LZDNpAcbYJc](https://youtu.be/LZDNpAcbYJc); Scripts and datafiles can be downloaded from GitHub [https://github.com/bogdanbabych/LSF-330838-Translation-Technologies](https://github.com/bogdanbabych/LSF-330838-Translation-Technologies) (in the command line, move to the directory where you wish to download the code and type: "git clone https://github.com/bogdanbabych/LSF-330838-Translation-Technologies.git):
 
 
