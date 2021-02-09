@@ -14,7 +14,7 @@ We start this course on-line. Please join our Seminar Room:
 [**https://heiconf.uni-heidelberg.de/bab-eeq-ax3**](https://heiconf.uni-heidelberg.de/bab-eeq-ax3)  
 on Tuesday, 13:15 Central European Time. If any problems with computer audio, you can also dial in via the phone: +49 6221 431 0 410, and then enter Phone PIN: 4341-9332-8165
 
-##### Submission of course assessment 
+##### Submission of course assessment
 
 If you take the course for credit, please submit your case study / report / essay via HeiBox:
 [https://heibox.uni-heidelberg.de/u/d/eb5e97279d2f41eba769/](https://heibox.uni-heidelberg.de/u/d/eb5e97279d2f41eba769/)
@@ -81,6 +81,14 @@ Week11: 01 Feb – 07 Feb 2021:
 
 
 Week12: 08 Feb – 14 Feb 2021:
+Machine Translation: Automate evaluation -- exercise handout. Please do the experiment at home
+[https://heibox.uni-heidelberg.de/d/08fb2e2e061a4eb9adf5/](https://heibox.uni-heidelberg.de/d/08fb2e2e061a4eb9adf5/)
+
+Please upload your table with the results + comments/observations before the next class onto HeiBox:
+[https://heibox.uni-heidelberg.de/u/d/e4c0c840da114760b40f/](https://heibox.uni-heidelberg.de/u/d/e4c0c840da114760b40f/)
+
+
+
 
 Week13: 15 Feb – 21 Feb 2021:
 
