@@ -87,7 +87,8 @@ Machine Translation: Automate evaluation -- exercise handout. Please do the expe
 Please upload your table with the results + comments/observations before the next class onto HeiBox:
 [https://heibox.uni-heidelberg.de/u/d/e4c0c840da114760b40f/](https://heibox.uni-heidelberg.de/u/d/e4c0c840da114760b40f/)
 
-
+- Video recording of the class: [https://youtu.be/BpfHSm0_iRU](https://youtu.be/BpfHSm0_iRU)
+- Slides of the presentation: [https://heibox.uni-heidelberg.de/d/479e02dd9e7b47a39d3b/](https://heibox.uni-heidelberg.de/d/479e02dd9e7b47a39d3b/)
 
 
 Week13: 15 Feb – 21 Feb 2021:
