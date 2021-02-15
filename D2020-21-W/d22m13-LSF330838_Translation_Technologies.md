@@ -18,7 +18,7 @@ on Tuesday, 13:15 Central European Time. If any problems with computer audio, yo
 
 If you take the course for credit, please submit your case study / report / essay via HeiBox:
 [https://heibox.uni-heidelberg.de/u/d/eb5e97279d2f41eba769/](https://heibox.uni-heidelberg.de/u/d/eb5e97279d2f41eba769/)
-Please submit you work by 16.03.2021. (if you need an extension, please let me know)
+Please submit you work by 23.03.2021. (if you need an extension, please let me know)
 
 ##### Pre-recorded presentations
 Aditi Rao: Manning, C. D., & Schütze, H. 1999. Chapter 5, Sections 5.3, and 5.4 in Collocations in: Manning, C. D., & Schütze, H. (1999). Foundations of statistical natural language processing. MIT press. [https://1drv.ms/v/s!ArnoXKT1QkN3cuvMpkJ_zuwLxyk?e=WB3x8D](https://1drv.ms/v/s!ArnoXKT1QkN3cuvMpkJ_zuwLxyk?e=WB3x8D)

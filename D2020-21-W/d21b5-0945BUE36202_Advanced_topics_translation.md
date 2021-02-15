@@ -14,7 +14,7 @@ on Tuesday, 10:15 am. If any problems with computer audio, you can also dial in 
 ##### Submission of course assessment
 
 If you take the course for credit, please submit your case study / report / essay via Moodle (the submission area is at the top of the course page)
-Please submit you work by 16.03.2021. (If you need an extension, please let me know).
+Please submit you work by 23.03.2021. (If you need an extension, please let me know).
 
 ##### PowerPoints of presentations
 

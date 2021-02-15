@@ -14,7 +14,9 @@ on Monday, 12:15. If any problems with computer audio, you can also dial in via 
 ##### Submission of course assessment
 
 If you take the course for credit, please submit your case study / report / essay via Moodle (the submission area is at the top of the course page)
-Please submit you work by 15.03.2021. (If you need an extension, please let me know).
+Please submit you work by 22.03.2021. (If you need an extension, please let me know).
+
+Assessment guidance and marking criteria: [https://heibox.uni-heidelberg.de/d/485ab21e1f254fec8aed/](https://heibox.uni-heidelberg.de/d/485ab21e1f254fec8aed/)
 
 ##### Course materials
 

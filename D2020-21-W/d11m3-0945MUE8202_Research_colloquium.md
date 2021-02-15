@@ -14,7 +14,7 @@ on Monday, 10:15 am. If any problems with computer audio, you can also dial in v
 ##### Submission of course assessment
 
 If you take the course for credit, please submit your case study / report / essay via Moodle (the submission area is at the top of the course page)
-Please submit you work by 15.03.2021. (If you need an extension, please let me know).
+Please submit you work by 22.03.2021. (If you need an extension, please let me know).
 
 ##### Pre-recorded presentations
 Aditi Rao and Ekaterini Dimitriou	In Other Words: A Coursebook on Translation. / Baker, Mona. London; New York : Routledge, 1992. Chapters 1,2 [https://1drv.ms/p/s!ArnoXKT1QkN3cLyrwtM_FiNEBY8?e=lSzg0y](https://1drv.ms/p/s!ArnoXKT1QkN3cLyrwtM_FiNEBY8?e=lSzg0y)
