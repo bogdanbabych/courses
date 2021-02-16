@@ -67,5 +67,6 @@ Week12: 08 Feb – 14 Feb 2021:
 - Video recording of the class [https://youtu.be/JPU7Hu1C7ZI](https://youtu.be/JPU7Hu1C7ZI)
 
 Week13: 15 Feb – 21 Feb 2021:
+- Video recording of the class: [https://youtu.be/OfQdUR52cVA](https://youtu.be/OfQdUR52cVA)
 
 Week14: 22 Feb – 28 Feb 2021:

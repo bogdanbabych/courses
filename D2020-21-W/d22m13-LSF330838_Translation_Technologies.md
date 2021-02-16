@@ -92,6 +92,7 @@ Please upload your table with the results + comments/observations before the nex
 
 
 Week13: 15 Feb – 21 Feb 2021:
+- Video recording of the class: [https://youtu.be/1oxmflaXrW8](https://youtu.be/1oxmflaXrW8)
 - link to MT evaluation lab: [http://corpus.leeds.ac.uk/corpuslabs/lab2021transtech/](http://corpus.leeds.ac.uk/corpuslabs/lab2021transtech/)
 - link to human MT evaluation handout [https://heibox.uni-heidelberg.de/d/92b66395614547cb8924/](https://heibox.uni-heidelberg.de/d/92b66395614547cb8924/)
 
