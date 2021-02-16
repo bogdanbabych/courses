@@ -16,6 +16,8 @@ on Tuesday, 10:15 am. If any problems with computer audio, you can also dial in 
 If you take the course for credit, please submit your case study / report / essay via Moodle (the submission area is at the top of the course page)
 Please submit you work by 23.03.2021. (If you need an extension, please let me know).
 
+Marking criteria and guidance on essays [https://heibox.uni-heidelberg.de/d/84a4d5f82bf14578b5f0/](https://heibox.uni-heidelberg.de/d/84a4d5f82bf14578b5f0/)
+
 ##### PowerPoints of presentations
 
 Lisa Weygold: [Chapter 5 from Saldanha and O’Brien’s Research Methodologies in Translation Studies](https://moodle.uni-heidelberg.de/pluginfile.php/434381/mod_folder/content/0/Participant-oriented%20Research_Weygold.pptx?forcedownload=1)  (via Moodle). This powerpoint presentation includes more in-depth information about the topic and some important techniques and aspects
