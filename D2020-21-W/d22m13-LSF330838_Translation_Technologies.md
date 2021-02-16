@@ -92,5 +92,6 @@ Please upload your table with the results + comments/observations before the nex
 
 
 Week13: 15 Feb – 21 Feb 2021:
+- link to MT evaluation lab: [http://corpus.leeds.ac.uk/corpuslabs/lab2021transtech/](http://corpus.leeds.ac.uk/corpuslabs/lab2021transtech/)
 
 Week14: 22 Feb – 28 Feb 2021:
