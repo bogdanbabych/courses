@@ -16,6 +16,8 @@ on Monday, 14:15. If any problems with computer audio, you can also dial in via 
 If you take the course for credit, please submit your case study / report / essay via Moodle (the submission area is at the top of the course page)
 Please submit you work by 22.03.2021. (If you need an extension, please let me know).
 
+Essay marking criteria [https://heibox.uni-heidelberg.de/d/0af14b1d56c949c9aad4/](https://heibox.uni-heidelberg.de/d/0af14b1d56c949c9aad4/)
+
 ##### Course materials
 
 Week01: 02 Nov – 08 Nov 2020: Course Introduction  
