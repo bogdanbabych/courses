@@ -20,6 +20,8 @@ If you take the course for credit, please submit your case study / report / essa
 [https://heibox.uni-heidelberg.de/u/d/eb5e97279d2f41eba769/](https://heibox.uni-heidelberg.de/u/d/eb5e97279d2f41eba769/)
 Please submit you work by 23.03.2021. (if you need an extension, please let me know)
 
+Marking criteria and example topics [https://heibox.uni-heidelberg.de/d/e369aa3a8c524719a486/](https://heibox.uni-heidelberg.de/d/e369aa3a8c524719a486/)
+
 ##### Pre-recorded presentations
 Aditi Rao: Manning, C. D., & Schütze, H. 1999. Chapter 5, Sections 5.3, and 5.4 in Collocations in: Manning, C. D., & Schütze, H. (1999). Foundations of statistical natural language processing. MIT press. [https://1drv.ms/v/s!ArnoXKT1QkN3cuvMpkJ_zuwLxyk?e=WB3x8D](https://1drv.ms/v/s!ArnoXKT1QkN3cuvMpkJ_zuwLxyk?e=WB3x8D)
 Link:
@@ -97,3 +99,5 @@ Week13: 15 Feb – 21 Feb 2021:
 - link to human MT evaluation handout [https://heibox.uni-heidelberg.de/d/92b66395614547cb8924/](https://heibox.uni-heidelberg.de/d/92b66395614547cb8924/)
 
 Week14: 22 Feb – 28 Feb 2021:
+- Recording: brief introduction into statistical methods (Research Methods Seminar) [https://youtu.be/W7lWYGLYy20](https://youtu.be/W7lWYGLYy20)
+- Additional materials on MT evaluation [https://heibox.uni-heidelberg.de/d/1f1ef0ddfee54ef6905f/](https://heibox.uni-heidelberg.de/d/1f1ef0ddfee54ef6905f/)
