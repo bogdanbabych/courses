@@ -99,5 +99,6 @@ Week13: 15 Feb – 21 Feb 2021:
 - link to human MT evaluation handout [https://heibox.uni-heidelberg.de/d/92b66395614547cb8924/](https://heibox.uni-heidelberg.de/d/92b66395614547cb8924/)
 
 Week14: 22 Feb – 28 Feb 2021:
+- Video recording of the class: [https://youtu.be/VrAbkUV4MMI](https://youtu.be/VrAbkUV4MMI)
 - Recording: brief introduction into statistical methods (Research Methods Seminar) [https://youtu.be/W7lWYGLYy20](https://youtu.be/W7lWYGLYy20)
 - Additional materials on MT evaluation [https://heibox.uni-heidelberg.de/d/1f1ef0ddfee54ef6905f/](https://heibox.uni-heidelberg.de/d/1f1ef0ddfee54ef6905f/)
