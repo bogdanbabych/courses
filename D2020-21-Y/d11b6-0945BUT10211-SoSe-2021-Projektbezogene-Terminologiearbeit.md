@@ -2,7 +2,7 @@
 ### Summer Semester 2020-2021
 #### Course 0945BUT10211 Projektbezogene Terminologiearbeit: Seminar Lexikografie und Terminologie
 
-- 0945MUE08211 SoSe 2021 Projektarbeit Forschung: Evaluation of Machine Translation systems in task-critical domains; MA, 2nd Semester, 6CP, Main seminar, Mon 14:15  to 15:45
+- 0945BUT10211 Projektbezogene Terminologiearbeit: Seminar Lexikografie und Terminologie; BA, 6nd Semester, 5CP, Seminar, Mon 10:15  to 11:45
 - [*LSF link*](https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=333791&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)  
 
 ##### Course enrolment on Moodle

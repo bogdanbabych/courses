@@ -1,8 +1,8 @@
 ## Institute for Translation and Interpreting, Heidelberg University
 ### Summer Semester 2020-2021
-#### Course 0945MUE08211 Projektarbeit: Forschung: Evaluation of Machine Translation systems in task-critical domains
+#### Course 0945BUT02211 Medientechnische Grundlagen der Fachübersetzung II (Maschinelle Übersetzung, Korpusanalyse)
 
-- 0945MUE08211 SoSe 2021 Projektarbeit Forschung: Evaluation of Machine Translation systems in task-critical domains; MA, 2nd Semester, 6CP, Main seminar, Mon 14:15  to 15:45
+- 0945BUT02211 Medientechnische Grundlagen der Fachübersetzung II (Maschinelle Übersetzung, Korpusanalyse); BA, 2nd Semester, 2CP, Main seminar, Mon 12:15  to 13:45
 - [*LSF link*](https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=333977&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)  
 
 ##### Course enrolment on Moodle
