@@ -16,7 +16,7 @@ on Mondays, 14:15 Central European Summer Time. If any problems with computer au
 
 ##### Course materials
 
-Week01:
+Week01 - Introduction:
 - Video recording of the class: [https://youtu.be/hI_JEETuBns](https://youtu.be/hI_JEETuBns)
 
 Week02:
