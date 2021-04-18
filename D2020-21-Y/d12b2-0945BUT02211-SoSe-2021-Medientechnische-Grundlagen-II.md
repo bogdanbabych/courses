@@ -3,16 +3,16 @@
 #### Course 0945MUE08211 Projektarbeit: Forschung: Evaluation of Machine Translation systems in task-critical domains
 
 - 0945MUE08211 SoSe 2021 Projektarbeit Forschung: Evaluation of Machine Translation systems in task-critical domains; MA, 2nd Semester, 6CP, Main seminar, Mon 14:15  to 15:45
-- [*LSF link*](https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=331157&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)  
+- [*LSF link*](https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=333977&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)  
 
 ##### Course enrolment on Moodle
-0945MUE08211
+0945BUT02211
 
 ##### Virtual Seminar Room
 
 We start this course on-line. Please join our Seminar Room:  
 [**https://heiconf.uni-heidelberg.de/bab-eeq-ax3**](https://heiconf.uni-heidelberg.de/bab-eeq-ax3)  
-on Mondays, 14:15 Central European Summer Time. If any problems with computer audio, you can also dial in via the phone: +49 6221 431 0 410, and then enter Phone PIN: 4341-9332-8165
+on Mondays, 12:15 Central European Summer Time. If any problems with computer audio, you can also dial in via the phone: +49 6221 431 0 410, and then enter Phone PIN: 4341-9332-8165
 
 ##### Course materials
 
