@@ -9,7 +9,7 @@ nav_order: 3
 
 [Home](index.md) | [Teaching](teaching.md) | [Research](research.md) | [Collaboration](collaboration.md) | [Techologies](techlabs.md) | [![Image](de_l_flag.png)](de_index.html) [![Image](uk_l_flag.png)](uk_index.html)
 
-### 2020-21 Winter Semester courses
+### 2020-21 Summer Semester courses
 
 1. [**0945BUT10211 Projektbezogene Terminologiearbeit: Seminar Lexikografie und Terminologie; BA, 6nd Semester**](D2020-21-Y/d11b6-0945BUT10211-SoSe-2021-Projektbezogene-Terminologiearbeit.md), 5CP, Seminar, Mon 10:15  to 12:45
 - [*Materials*](D2020-21-Y/d11b6-0945BUT10211-SoSe-2021-Projektbezogene-Terminologiearbeit.md)
