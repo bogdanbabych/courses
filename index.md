@@ -12,8 +12,8 @@ permalink: /
 [Home](index.md) | [Teaching](teaching.md) | [Research](research.md) | [Collaboration](collaboration.md) | [Techologies](techlabs.md) | [![Image](de_l_flag.png)](de_index.html) [![Image](uk_l_flag.png)](uk_index.html)
 
 #### 2020-2021 [Summer Semester courses page](D2020-21-Y-courses.md) :
-- [0945MUE08211 SoSe 2021 Projektarbeit Forschung: Evaluation of Machine Translation systems in task-critical domains; MA, 2nd Semester](D2020-21-Y/d11b6-0945BUT10211-SoSe-2021-Projektbezogene-Terminologiearbeit.md)
-- [0945MUE08211 SoSe 2021 Projektarbeit Forschung: Evaluation of Machine Translation systems in task-critical domains; MA, 2nd Semester](D2020-21-Y/d12b2-0945BUT02211-SoSe-2021-Medientechnische-Grundlagen-II.md)
+- [0945BUT10211 Projektbezogene Terminologiearbeit: Seminar Lexikografie und Terminologie; BA, 6nd Semester](D2020-21-Y/d11b6-0945BUT10211-SoSe-2021-Projektbezogene-Terminologiearbeit.md)
+- [0945BUT02211 Medientechnische Grundlagen der Fachübersetzung II (Maschinelle Übersetzung, Korpusanalyse); BA, 2nd Semester](D2020-21-Y/d12b2-0945BUT02211-SoSe-2021-Medientechnische-Grundlagen-II.md)
 - [0945MUE08211 SoSe 2021 Projektarbeit Forschung: Evaluation of Machine Translation systems in task-critical domains; MA, 2nd Semester](D2020-21-Y/d13m2-0945MUE08211-SoSe-2021-Projektarbeit-Forschung.md)
 
 #### 2020-2021 [Winter Semester courses page](D2020-21-W-courses.md) :
