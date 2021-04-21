@@ -21,7 +21,7 @@ permalink: /
 - [0945BUT02202 Technical foundations of professional translation I](D2020-21-W/d12b1-0945BUT02202_Technical_foundations.md)
 - [0945MUE1202 Translation and Culture - Ideology, evaluative language and intervention in translation](D2020-21-W/d13m1-0945MUE1202_Translation_Culture_Ideology.md)
 - [0945BUE36202 Advanced topics in translation studies - Translation quality, critical evaluation and justification of translation decisions](D2020-21-W/d21b5-0945BUE36202_Advanced_topics_translation.md)
-- [LSF 330838 Translation Technologies: MA main seminar, 1st or 3rd semester](D2020-21-W/d21b5-0945BUE36202_Advanced_topics_translation.md)
+- [LSF 330838 Translation Technologies: MA main seminar, 1st or 3rd semester](D2020-21-W/d22m13-LSF330838_Translation_Technologies.md)
 
 
 ### Pageview statistics on ClustMaps
