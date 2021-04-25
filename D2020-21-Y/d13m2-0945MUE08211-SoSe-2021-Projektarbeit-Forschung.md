@@ -20,6 +20,7 @@ Week01 - Introduction:
 - Video recording of the class: [https://youtu.be/hI_JEETuBns](https://youtu.be/hI_JEETuBns)
 
 Week02:
+- Video recording of the class: [https://youtu.be/2Id6NkjBr8U](https://youtu.be/2Id6NkjBr8U)
 
 Week03:
 
