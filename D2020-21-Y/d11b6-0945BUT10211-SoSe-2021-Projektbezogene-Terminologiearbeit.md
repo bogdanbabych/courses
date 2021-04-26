@@ -24,6 +24,7 @@ Week02:
 - PPT slides [https://heibox.uni-heidelberg.de/u/d/62143d26741d4bf79146/](https://heibox.uni-heidelberg.de/u/d/62143d26741d4bf79146/)
 
 Week03:
+- Practical (handout) [https://heibox.uni-heidelberg.de/d/98b53ea097a24813b292/](https://heibox.uni-heidelberg.de/d/98b53ea097a24813b292/)
 
 Week04:
 
