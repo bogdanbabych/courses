@@ -21,6 +21,7 @@ Week01 - Introduction:
 
 Week02:
 - Video recording of the class: [https://youtu.be/8w7-CIoXiUY](https://youtu.be/8w7-CIoXiUY)
+- PPT slides [https://heibox.uni-heidelberg.de/u/d/62143d26741d4bf79146/](https://heibox.uni-heidelberg.de/u/d/62143d26741d4bf79146/)
 
 Week03:
 
