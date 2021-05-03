@@ -25,7 +25,7 @@ Week02:
 Week03:
 
 Week04:
-Homework - introduction [https://heibox.uni-heidelberg.de/d/82e889a8df914b3dbf06/](https://heibox.uni-heidelberg.de/d/82e889a8df914b3dbf06/)
+- Homework: [https://heibox.uni-heidelberg.de/d/82e889a8df914b3dbf06/](https://heibox.uni-heidelberg.de/d/82e889a8df914b3dbf06/)
 
 
 Week05:
