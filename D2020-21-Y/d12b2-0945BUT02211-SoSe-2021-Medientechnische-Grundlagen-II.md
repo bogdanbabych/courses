@@ -23,8 +23,10 @@ Week02:
 - Video recording of the class: [https://youtu.be/847RI3NJzQE](https://youtu.be/847RI3NJzQE)
 
 Week03:
+- Video recording of the class: [https://youtu.be/qhtHbcjXWvY](https://youtu.be/qhtHbcjXWvY)
 
 Week04:
+- Video recording of the class: [https://youtu.be/hFEFtMPJjfM](https://youtu.be/hFEFtMPJjfM)
 
 Week05:
 

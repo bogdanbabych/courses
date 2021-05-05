@@ -24,9 +24,11 @@ Week02:
 - PPT slides [https://heibox.uni-heidelberg.de/d/0406874dcc0e4fd8818c/](https://heibox.uni-heidelberg.de/d/0406874dcc0e4fd8818c/)
 
 Week03:
+- Video recording of the class: [https://youtu.be/chm_Z9kTt9U](https://youtu.be/chm_Z9kTt9U)
 - Practical (handout) [https://heibox.uni-heidelberg.de/d/98b53ea097a24813b292/](https://heibox.uni-heidelberg.de/d/98b53ea097a24813b292/)
 
 Week04:
+- Video recording of the class: [https://youtu.be/uLa8DCVvsAc](https://youtu.be/uLa8DCVvsAc)
 
 Week05:
 

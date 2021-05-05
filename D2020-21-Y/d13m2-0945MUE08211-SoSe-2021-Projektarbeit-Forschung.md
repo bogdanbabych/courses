@@ -23,10 +23,11 @@ Week02:
 - Video recording of the class: [https://youtu.be/2Id6NkjBr8U](https://youtu.be/2Id6NkjBr8U)
 
 Week03:
+- Video recording of the class: [https://youtu.be/V2_h6jsMfT8](https://youtu.be/V2_h6jsMfT8)
 
 Week04:
+- Video recording of the class: [https://youtu.be/OFAWeIZib_0](https://youtu.be/OFAWeIZib_0)
 - Homework: [https://heibox.uni-heidelberg.de/d/82e889a8df914b3dbf06/](https://heibox.uni-heidelberg.de/d/82e889a8df914b3dbf06/)
-
 
 Week05:
 
