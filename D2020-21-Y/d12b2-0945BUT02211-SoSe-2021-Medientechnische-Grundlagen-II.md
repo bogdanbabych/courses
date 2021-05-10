@@ -29,6 +29,7 @@ Week04:
 - Video recording of the class: [https://youtu.be/hFEFtMPJjfM](https://youtu.be/hFEFtMPJjfM)
 
 Week05:
+- testing MT systems - handout [https://heibox.uni-heidelberg.de/d/b5c0ebc1d07d4e6aa565/](https://heibox.uni-heidelberg.de/d/b5c0ebc1d07d4e6aa565/)
 
 Week06:
 
