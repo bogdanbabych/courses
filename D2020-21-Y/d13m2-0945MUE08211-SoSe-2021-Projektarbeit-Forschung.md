@@ -30,6 +30,7 @@ Week04:
 - Homework: [https://heibox.uni-heidelberg.de/d/82e889a8df914b3dbf06/](https://heibox.uni-heidelberg.de/d/82e889a8df914b3dbf06/)
 
 Week05:
+- Video recording of the class: [https://youtu.be/PxQB14_bFxE](https://youtu.be/PxQB14_bFxE)
 - On Monday, 10.05.2021, we will start as usual, 14:15, but we will have to finish earlier, at 15:00. To make up for this time, I invite you to watch two talks relevant for our topic (datasets and workflows with the use of machine translation):
 
 1.  "Language Industry Transformation: Now and Tomorrow", by Translation Automation User Society (TAUS) team: [https://www.youtube.com/watch?v=ByUJWaPcha4&list=PL6uIqKfoBxnh7iki2JMuzENNXLaeekB2t&index=11](https://www.youtube.com/watch?v=ByUJWaPcha4&list=PL6uIqKfoBxnh7iki2JMuzENNXLaeekB2t&index=11)

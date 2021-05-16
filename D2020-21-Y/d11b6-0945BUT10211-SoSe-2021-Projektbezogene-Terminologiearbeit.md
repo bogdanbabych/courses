@@ -31,6 +31,7 @@ Week04:
 - Video recording of the class: [https://youtu.be/uLa8DCVvsAc](https://youtu.be/uLa8DCVvsAc)
 
 Week05:
+- Video recording of the class: [https://youtu.be/DHMAOj5OWZw](https://youtu.be/DHMAOj5OWZw)
 - corpus work: handout [https://heibox.uni-heidelberg.de/d/8b4fedf505bf490f8465/](https://heibox.uni-heidelberg.de/d/8b4fedf505bf490f8465/)
 
 Week06:
