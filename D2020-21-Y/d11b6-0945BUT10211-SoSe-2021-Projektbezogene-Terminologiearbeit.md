@@ -14,6 +14,9 @@ We start this course on-line. Please join our Seminar Room:
 [**https://heiconf.uni-heidelberg.de/bab-eeq-ax3**](https://heiconf.uni-heidelberg.de/bab-eeq-ax3)  
 on Mondays, 10:15 Central European Summer Time. If any problems with computer audio, you can also dial in via the phone: +49 6221 431 0 410, and then enter Phone PIN: 4341-9332-8165
 
+##### Course assessment
+- Structure and marking criteria: [https://heibox.uni-heidelberg.de/d/766b4be72f4946929687/](https://heibox.uni-heidelberg.de/d/766b4be72f4946929687/)
+
 ##### Course materials
 
 Week01 - Introduction:
@@ -35,6 +38,7 @@ Week05:
 - corpus work: handout [https://heibox.uni-heidelberg.de/d/8b4fedf505bf490f8465/](https://heibox.uni-heidelberg.de/d/8b4fedf505bf490f8465/)
 
 Week06:
+
 
 Week07: Public holiday, no class
 
