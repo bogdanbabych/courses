@@ -16,6 +16,7 @@ on Mondays, 10:15 Central European Summer Time. If any problems with computer au
 
 ##### Course assessment
 - Structure and marking criteria: [https://heibox.uni-heidelberg.de/d/766b4be72f4946929687/](https://heibox.uni-heidelberg.de/d/766b4be72f4946929687/)
+- Sample case study [https://heibox.uni-heidelberg.de/d/9c83d855799344d6ada5/](https://heibox.uni-heidelberg.de/d/9c83d855799344d6ada5/)
 
 ##### Course materials
 
