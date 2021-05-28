@@ -33,6 +33,7 @@ Week05:
 - testing MT systems - handout [https://heibox.uni-heidelberg.de/d/b5c0ebc1d07d4e6aa565/](https://heibox.uni-heidelberg.de/d/b5c0ebc1d07d4e6aa565/)
 
 Week06:
+- Video recording of the class: [https://youtu.be/tYun7vGDFWQ](https://youtu.be/tYun7vGDFWQ)
 
 Week07: Public holiday, no class
 

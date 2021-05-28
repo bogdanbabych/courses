@@ -40,6 +40,7 @@ Week05:
 
 
 Week06:
+- Video recording of the class: [https://youtu.be/nA9U2leggPM](https://youtu.be/nA9U2leggPM)
 
 Week07: Public holiday, no class
 

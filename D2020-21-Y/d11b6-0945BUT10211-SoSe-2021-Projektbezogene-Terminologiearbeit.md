@@ -39,6 +39,7 @@ Week05:
 - corpus work: handout [https://heibox.uni-heidelberg.de/d/8b4fedf505bf490f8465/](https://heibox.uni-heidelberg.de/d/8b4fedf505bf490f8465/)
 
 Week06:
+- Video recording of the class: [https://youtu.be/84jWt-ZbfXs](https://youtu.be/84jWt-ZbfXs)
 
 
 Week07: Public holiday, no class
