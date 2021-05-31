@@ -45,6 +45,7 @@ Week06:
 Week07: Public holiday, no class
 
 Week08:
+- Practical: Controlled Language -  handout [https://heibox.uni-heidelberg.de/d/6aeef8df547d4c78ad6e/](https://heibox.uni-heidelberg.de/d/6aeef8df547d4c78ad6e/)
 
 Week09:
 
