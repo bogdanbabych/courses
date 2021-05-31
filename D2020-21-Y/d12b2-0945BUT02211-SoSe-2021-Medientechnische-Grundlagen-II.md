@@ -38,6 +38,7 @@ Week06:
 Week07: Public holiday, no class
 
 Week08:
+- Practical: handount [https://heibox.uni-heidelberg.de/d/d09a58ffa02940b8ad7f/](https://heibox.uni-heidelberg.de/d/d09a58ffa02940b8ad7f/)
 
 Week09:
 
