@@ -45,6 +45,7 @@ Week06:
 Week07: Public holiday, no class
 
 Week08:
+- Video recording of the class: [https://youtu.be/tGA_aBQBEqc](https://youtu.be/tGA_aBQBEqc)
 - Practical: Controlled Language -  handout [https://heibox.uni-heidelberg.de/d/6aeef8df547d4c78ad6e/](https://heibox.uni-heidelberg.de/d/6aeef8df547d4c78ad6e/)
 
 Week09:

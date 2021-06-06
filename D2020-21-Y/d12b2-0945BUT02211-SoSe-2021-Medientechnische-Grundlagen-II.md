@@ -38,6 +38,7 @@ Week06:
 Week07: Public holiday, no class
 
 Week08:
+- Video recording of the class: [https://youtu.be/SoDHgQZoWtU](https://youtu.be/SoDHgQZoWtU)
 - Practical: handount [https://heibox.uni-heidelberg.de/d/d09a58ffa02940b8ad7f/](https://heibox.uni-heidelberg.de/d/d09a58ffa02940b8ad7f/)
 
 Week09:
