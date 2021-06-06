@@ -50,7 +50,7 @@ Week08:
 
 Week09:
 1. This class will be off-line, there is a take-home practical task instead of the class, which has to be completed by Sunday 11.06.2021 (next week).
-2. Before doing the task, watch the video on YouTube for this week: [](). If you missed last week, you can catch up by watching video under Week08
+2. Before doing the task, you can watch the video on YouTube for this week: [https://youtu.be/tpBNc-1ALkA](https://youtu.be/tpBNc-1ALkA). If you missed last week, you can catch up by watching video under Week08
 3. Then download and fill in the worksheet Word file from last week [https://heibox.uni-heidelberg.de/d/6aeef8df547d4c78ad6e/files/?p=%2F0945MUE08211-y20s21w08-worksheet-research-project-v02.docx&dl=1](https://heibox.uni-heidelberg.de/d/6aeef8df547d4c78ad6e/files/?p=%2F0945MUE08211-y20s21w08-worksheet-research-project-v02.docx&dl=1). ( All the instructions are in the HeiBox folder shared under Week08 link).
 4. You do not have to pre-edit all 47 segments, but please try to pre-edit and evaluate usability for post-editing of at least 12, or as many as you can.
 5. Use this Google Form [https://forms.gle/Y9uf6aZmmYjkCc6eA](https://forms.gle/Y9uf6aZmmYjkCc6eA) 4 times, to evaluate:
