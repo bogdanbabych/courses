@@ -49,5 +49,6 @@ Week08:
 - Practical (handout) [https://heibox.uni-heidelberg.de/d/aa76a3864d13460d98f0/](https://heibox.uni-heidelberg.de/d/aa76a3864d13460d98f0/)
 
 Week09:
+- Resources and literature [https://heibox.uni-heidelberg.de/d/5cfc75505503436a9516/](https://heibox.uni-heidelberg.de/d/5cfc75505503436a9516/)
 
 Week10:
