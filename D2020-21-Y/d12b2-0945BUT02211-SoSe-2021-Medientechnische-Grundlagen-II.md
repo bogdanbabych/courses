@@ -42,6 +42,7 @@ Week08:
 - Practical: handount [https://heibox.uni-heidelberg.de/d/d09a58ffa02940b8ad7f/](https://heibox.uni-heidelberg.de/d/d09a58ffa02940b8ad7f/)
 
 Week09:
+- Video recording of the class [https://youtu.be/kxomWDsFPJY](https://youtu.be/kxomWDsFPJY)
 - Upload your worksheet on heiBox here: [https://heibox.uni-heidelberg.de/u/d/60f44a3f6dfa40a0bea9/](https://heibox.uni-heidelberg.de/u/d/60f44a3f6dfa40a0bea9/)
 - You can download other's worksheets, developed for other target languages [https://heibox.uni-heidelberg.de/d/1ddde09bb0de43fcaa7b/](https://heibox.uni-heidelberg.de/d/1ddde09bb0de43fcaa7b/)
 
