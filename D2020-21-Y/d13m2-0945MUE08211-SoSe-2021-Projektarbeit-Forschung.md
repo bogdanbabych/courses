@@ -67,6 +67,7 @@ Week09:
 - Once again, please upload your Worksheet Word file and your evaluation scores on Google Form by Sunday 11.06.2021 (next week)
 
 Week10:
+- Video recording of the class: [https://youtu.be/mvE4ef8qing](https://youtu.be/mvE4ef8qing)
 
 Week11:
 

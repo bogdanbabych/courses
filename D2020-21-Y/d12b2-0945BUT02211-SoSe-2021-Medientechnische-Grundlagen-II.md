@@ -47,6 +47,7 @@ Week09:
 - You can download other's worksheets, developed for other target languages [https://heibox.uni-heidelberg.de/d/1ddde09bb0de43fcaa7b/](https://heibox.uni-heidelberg.de/d/1ddde09bb0de43fcaa7b/)
 
 Week10:
+- Video recording of the class: [https://youtu.be/SOJF-t6pxIM](https://youtu.be/SOJF-t6pxIM)
 - Link to example form on Google Drive (please create such form on your own Google Drive, and carry out evaluation experiments) [https://forms.gle/b1gTyWwbbQJPCxbJA](https://forms.gle/b1gTyWwbbQJPCxbJA)
 - Upload your document here [https://heibox.uni-heidelberg.de/u/d/60f44a3f6dfa40a0bea9/](https://heibox.uni-heidelberg.de/u/d/60f44a3f6dfa40a0bea9/)
 
