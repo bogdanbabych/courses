@@ -53,7 +53,10 @@ Week10:
 
 Week11:
 
-Instructions for Controlled Language evaluation experiment:
+- Video recording [https://youtu.be/-dDkvAQqGZ8](https://youtu.be/-dDkvAQqGZ8)
+Please prepare a short presentation (up to 5 slides) about improvements with CL. We should be able to listen to presentations in the last week(s) of the course.
+
+- Instructions for Controlled Language evaluation experiment:
 
 1. For the overview watch video from Week09: [https://youtu.be/kxomWDsFPJY](https://youtu.be/kxomWDsFPJY). Videos in the following weeks discuss methods for data analysis, which you could apply in your case study / evaluation experiment
 2. Download and fill in the worksheet Word file [https://heibox.uni-heidelberg.de/f/7387236b8e4848cfbcd9/](https://heibox.uni-heidelberg.de/f/7387236b8e4848cfbcd9/). ( All the instructions are in the HeiBox folder shared under Week08 link "Practical: handout").
