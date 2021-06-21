@@ -69,6 +69,7 @@ Week09:
 Week10:
 - Video recording of the class: [https://youtu.be/mvE4ef8qing](https://youtu.be/mvE4ef8qing)
 - Links to files with your own data (for analysis of individual responses): [https://drive.google.com/drive/folders/1cb29n5O_bvJr_eGPxRJPwLmhRrPDmPIk?usp=sharing](https://drive.google.com/drive/folders/1cb29n5O_bvJr_eGPxRJPwLmhRrPDmPIk?usp=sharing)
+- If you add your evaluation to the Google form (Week09, Step 5 link), you can view / copy it into your own data files from here (responses read only spreadsheet) [https://docs.google.com/spreadsheets/d/1hC9ZH-4B5I3JQ2e2E2ykiuXqif23dYMrhxDnlepEMWE/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1hC9ZH-4B5I3JQ2e2E2ykiuXqif23dYMrhxDnlepEMWE/edit?usp=sharing)
 
 Week11:
 
