@@ -15,6 +15,7 @@ permalink: /
 - [0945BUT10211 Projektbezogene Terminologiearbeit: Seminar Lexikografie und Terminologie; BA, 6nd Semester](D2020-21-Y/d11b6-0945BUT10211-SoSe-2021-Projektbezogene-Terminologiearbeit.md)
 - [0945BUT02211 Medientechnische Grundlagen der Fachübersetzung II (Maschinelle Übersetzung, Korpusanalyse); BA, 2nd Semester](D2020-21-Y/d12b2-0945BUT02211-SoSe-2021-Medientechnische-Grundlagen-II.md)
 - [0945MUE08211 SoSe 2021 Projektarbeit Forschung: Evaluation of Machine Translation systems in task-critical domains; MA, 2nd Semester](D2020-21-Y/d13m2-0945MUE08211-SoSe-2021-Projektarbeit-Forschung.md)
+- [summer school, Kyiv 2021](D2020-21-Y/summer-school-Kyiv-SoSe-2021-Controlled-Language.md)
 
 #### 2020-2021 [Winter Semester courses page](D2020-21-W-courses.md) :
 - [0945MUE8202 Research colloquium](D2020-21-W/d11m3-0945MUE8202_Research_colloquium.md)
