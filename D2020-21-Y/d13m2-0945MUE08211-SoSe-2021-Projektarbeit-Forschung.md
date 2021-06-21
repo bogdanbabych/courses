@@ -72,6 +72,7 @@ Week10:
 - If you add your evaluation to the Google form (Week09, Step 5 link), you can view / copy it into your own data files from here (responses read only spreadsheet) [https://docs.google.com/spreadsheets/d/1hC9ZH-4B5I3JQ2e2E2ykiuXqif23dYMrhxDnlepEMWE/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1hC9ZH-4B5I3JQ2e2E2ykiuXqif23dYMrhxDnlepEMWE/edit?usp=sharing)
 
 Week11:
+- Video recording of the class: [https://youtu.be/SYIu7I2-Q0s](https://youtu.be/SYIu7I2-Q0s)
 
 Week12:
 
