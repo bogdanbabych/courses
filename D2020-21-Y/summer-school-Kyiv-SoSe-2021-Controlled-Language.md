@@ -1,9 +1,7 @@
 ## Institute for Translation and Interpreting, Heidelberg University
 ### Summer Semester 2020-2021
-#### Summer School 2021: Kyiv
 
-
-##### Virtual Seminar Room
+#### Virtual Seminar Room
 
 Time: 22 червня о 14:00 / Kyiv time
 Zoom link: [https://us02web.zoom.us/j/81027581757](https://us02web.zoom.us/j/81027581757)
@@ -13,10 +11,10 @@ pwd 111
 ##### Course materials
 
 Thanks for attending the class!
-**Outcome**: Google Spreadsheet with comparison results / improvement 
+
+**Outcome**: Google Spreadsheet with comparison results / improvement
 - Please switch to the second tab to see the averages and differences between the Baseline vs. Controlled Language):
 - [https://docs.google.com/spreadsheets/d/1jVxMpbs5t3EDR6FEUgzYRD1Ws4ByGhbAgym1rJayb9A/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1jVxMpbs5t3EDR6FEUgzYRD1Ws4ByGhbAgym1rJayb9A/edit?usp=sharing)
-
 - Upload your completed worksheets here: [https://heibox.uni-heidelberg.de/u/d/dc0b51baeb1c4f668e2a/](https://heibox.uni-heidelberg.de/u/d/dc0b51baeb1c4f668e2a/)
 - You can download the worksheets of others here: [https://heibox.uni-heidelberg.de/d/ce325481bf9143bb8e6f/](https://heibox.uni-heidelberg.de/d/ce325481bf9143bb8e6f/)
 
