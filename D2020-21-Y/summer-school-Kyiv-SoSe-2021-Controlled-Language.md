@@ -11,6 +11,17 @@ pwd 111
 
 
 ##### Course materials
+
+Thanks for attending the class!
+**Outcome**: Google Spreadsheet with comparison results / improvement 
+- Please switch to the second tab to see the averages and differences between the Baseline vs. Controlled Language):
+- [https://docs.google.com/spreadsheets/d/1jVxMpbs5t3EDR6FEUgzYRD1Ws4ByGhbAgym1rJayb9A/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1jVxMpbs5t3EDR6FEUgzYRD1Ws4ByGhbAgym1rJayb9A/edit?usp=sharing)
+
+- Upload your completed worksheets here: [https://heibox.uni-heidelberg.de/u/d/dc0b51baeb1c4f668e2a/](https://heibox.uni-heidelberg.de/u/d/dc0b51baeb1c4f668e2a/)
+- You can download the worksheets of others here: [https://heibox.uni-heidelberg.de/d/ce325481bf9143bb8e6f/](https://heibox.uni-heidelberg.de/d/ce325481bf9143bb8e6f/)
+
+##### Instructions for the course
+
 1. ( All files are in the shared folder under [https://heibox.uni-heidelberg.de/d/b5ce10402b7d4ca48722/](https://heibox.uni-heidelberg.de/d/b5ce10402b7d4ca48722/)  ).
 2.	In this collaborative project we will test Controlled Language (CL) developed by ourselves and other people; Please save this document as *-yourInitials-yourTL.docx At the end please upload it to the shared project folder on the Google Drive, so other people could test your CL.
 3.	For the overview, you can watch video from last year, starting at 1:00:00, for 7 min: [https://youtu.be/rWwBqZY2F9c?t=3618](https://youtu.be/rWwBqZY2F9c?t=3618) .
@@ -34,14 +45,14 @@ pwd 111
 - Some sentences may be not possible to improve.
 - Copy resulting Controlled Language sentences into the worksheet (column 5), saving the file after each sentence.
 - If time allows, in Column 6 after each sentence note which CL rules you applied (you can use categories before the table, or come up with your own categories)
-7. Repeat evaluation experiment in Google Form for Stage 02,
+8. Repeat evaluation experiment in Google Form for Stage 02,
 - Approx. ~10 min.
 - recording your name (please use the same name / initials),
 - Stage02, uk as Target Language and
 - your evaluation scores; most of them will be very high
 - Click Sumbit, then again "Submit another response"
 - Go back to Google Translate and copy the resulting Ukrainian output into the worksheet, Section for Stage02 after the table
-8. *Stage03* and *Stage04* Repeat the baseline (without CL) and CL-pre-edited evaluation for a 'surprise' MT system (Bing MT [https://www.bing.com/translator](https://www.bing.com/translator).
+9. *Stage03* and *Stage04* Repeat the baseline (without CL) and CL-pre-edited evaluation for a 'surprise' MT system (Bing MT [https://www.bing.com/translator](https://www.bing.com/translator).
 - Approx. ~10 min each stage
 - The aim is to find out if the same CL, which we developed for Google, would also work for improving another MT system (Bing)
 - Bing has 1k character limit, so you will need to do translation/evaluation in two stages, e.g., Segments 1-10, then Segments 11-17
@@ -51,18 +62,18 @@ pwd 111
 - So, in Stage04 you DO NOT CHANGE the CL, just copy the CL which you developed in Stage02, from the Columns 4 and 5 in your table
 - Paste the text into Bing (Seg 1- 10, then Seg 11-17), then record evaluation scores
 - Each time copy Bing Ukrainian output into Section Stage03 at the end of your worksheet.
-7. If time allows, in *Stage05* and (optionally) *Stage06* we will try to find out, if the CL works across different target languages. You will download worksheets from other students, who developed the CL for translating into Italian and Polish. We will test if it works for improving translation into Ukrainian.
+10. If time allows, in *Stage05* and (optionally) *Stage06* we will try to find out, if the CL works across different target languages. You will download worksheets from other students, who developed the CL for translating into Italian and Polish. We will test if it works for improving translation into Ukrainian.
 - **Stage05**: download a worksheet with CL produced for another Target Language (Italian, Polish) from: [https://heibox.uni-heidelberg.de/d/d4648849cbd24c8889ec/](https://heibox.uni-heidelberg.de/d/d4648849cbd24c8889ec/) .
 - Will the these CLs work for improving translation into Ukrainian? Translate with Google and evaluate MT quality in the Google Form, indicate which file you used (it or pl)
 - Each time copy Ukrainian MT output into your worksheet, into Stage05 Section
 - **Stage06**: [optional] download another worksheet for another Target Language (Polish / Italian; in a sub-folder German, Greek also available, but have 12 segments in each) from the same link [https://heibox.uni-heidelberg.de/d/d4648849cbd24c8889ec/](https://heibox.uni-heidelberg.de/d/d4648849cbd24c8889ec/) . Repeat translation (Google) and evaluation, copy MT output into Stage06 section.
-8.	The evaluation scores are recorded in a spreadsheet: [https://docs.google.com/spreadsheets/d/15vdjimO72I8U8ZU_Wp5vnoEvR4sY7HUUuV4NI6JEW1Q/edit?usp=sharing](https://docs.google.com/spreadsheets/d/15vdjimO72I8U8ZU_Wp5vnoEvR4sY7HUUuV4NI6JEW1Q/edit?usp=sharing)   We will look analysis of this data in the class.
-9. **Stage07** and **Stage08** (homework) -- would you be able to improve Systran Ukrainian translation (Systran: h[ttps://translate.systran.net/?lang=en](ttps://translate.systran.net/?lang=en) ; Stage07 -- baseline; Stage08 -- CL? Record your scores and results, you will be able to see the results in the same Google Spreadsheet.
+11.	The evaluation scores are recorded in a spreadsheet: [https://docs.google.com/spreadsheets/d/1jVxMpbs5t3EDR6FEUgzYRD1Ws4ByGhbAgym1rJayb9A/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1jVxMpbs5t3EDR6FEUgzYRD1Ws4ByGhbAgym1rJayb9A/edit?usp=sharing)   We will look analysis of this data in the class.
+12. **Stage07** and **Stage08** (homework) -- would you be able to improve Systran Ukrainian translation (Systran: h[ttps://translate.systran.net/?lang=en](ttps://translate.systran.net/?lang=en) ; Stage07 -- baseline; Stage08 -- CL? Record your scores and results, you will be able to see the results in the same Google Spreadsheet.
 - You can generate graphs for your presentation in the spreadsheet
 - Analyse and interpret your results, using examples from your sentences.
 - Prepare a short Powerpoint presentation for your colleagues about effectiveness of the CL for MT-supported localisation workflow
-8.	When finished, please re-name your worksheet file, using your initials or name and your target language
-9.	Upload your worksheet to the HeiBox link: Upload: [https://heibox.uni-heidelberg.de/u/d/dc0b51baeb1c4f668e2a/](https://heibox.uni-heidelberg.de/u/d/dc0b51baeb1c4f668e2a/) Download (check if your file is there): [https://heibox.uni-heidelberg.de/d/ce325481bf9143bb8e6f/](https://heibox.uni-heidelberg.de/d/ce325481bf9143bb8e6f/)
+13.	When finished, please re-name your worksheet file, using your initials or name and your target language
+14.	Upload your worksheet to the HeiBox link: Upload: [https://heibox.uni-heidelberg.de/u/d/dc0b51baeb1c4f668e2a/](https://heibox.uni-heidelberg.de/u/d/dc0b51baeb1c4f668e2a/) Download (check if your file is there): [https://heibox.uni-heidelberg.de/d/ce325481bf9143bb8e6f/](https://heibox.uni-heidelberg.de/d/ce325481bf9143bb8e6f/)
 
 
 *Once again, a shorter overview of the stages*
