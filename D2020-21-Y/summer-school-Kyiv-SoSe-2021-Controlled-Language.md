@@ -18,6 +18,9 @@ Thanks for attending the class!
 - Upload your completed worksheets here: [https://heibox.uni-heidelberg.de/u/d/dc0b51baeb1c4f668e2a/](https://heibox.uni-heidelberg.de/u/d/dc0b51baeb1c4f668e2a/)
 - You can download the worksheets of others here: [https://heibox.uni-heidelberg.de/d/ce325481bf9143bb8e6f/](https://heibox.uni-heidelberg.de/d/ce325481bf9143bb8e6f/)
 
+Controlled Language specification documents and slides: [https://heibox.uni-heidelberg.de/d/ef3cc0abfbf94193be11/](https://heibox.uni-heidelberg.de/d/ef3cc0abfbf94193be11/)
+
+
 ##### Instructions for the course
 
 1. ( All files are in the shared folder under [https://heibox.uni-heidelberg.de/d/b5ce10402b7d4ca48722/](https://heibox.uni-heidelberg.de/d/b5ce10402b7d4ca48722/)  ).
