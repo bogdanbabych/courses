@@ -20,6 +20,7 @@ Thanks for attending the class!
 
 Controlled Language specification documents and slides: [https://heibox.uni-heidelberg.de/d/ef3cc0abfbf94193be11/](https://heibox.uni-heidelberg.de/d/ef3cc0abfbf94193be11/)
 
+Many thanks to those who have uploaded their worksheets!!!
 
 ##### Instructions for the course
 
