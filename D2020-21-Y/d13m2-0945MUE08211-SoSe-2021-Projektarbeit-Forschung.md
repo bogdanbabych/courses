@@ -75,6 +75,7 @@ Week11:
 - Video recording of the class: [https://youtu.be/SYIu7I2-Q0s](https://youtu.be/SYIu7I2-Q0s)
 
 Week12:
+- MT evaluation project - materials: [https://heibox.uni-heidelberg.de/d/ddf17b2c9e4640b5b7df/](https://heibox.uni-heidelberg.de/d/ddf17b2c9e4640b5b7df/)
 
 Week13:
 

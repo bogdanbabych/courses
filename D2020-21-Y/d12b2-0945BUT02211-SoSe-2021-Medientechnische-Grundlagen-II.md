@@ -75,6 +75,8 @@ Please prepare a short presentation (up to 5 slides) about improvements with CL.
 
 Week12:
 
+- MT evaluation project - materials: [https://heibox.uni-heidelberg.de/d/b6cbf256187b4a9f973c/](https://heibox.uni-heidelberg.de/d/b6cbf256187b4a9f973c/)
+
 Week13:
 
 Week14:
