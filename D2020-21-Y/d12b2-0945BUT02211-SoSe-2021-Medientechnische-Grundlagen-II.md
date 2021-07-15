@@ -5,7 +5,7 @@
 - 0945BUT02211 Medientechnische Grundlagen der Fachübersetzung II (Maschinelle Übersetzung, Korpusanalyse); BA, 2nd Semester, 2CP, Main seminar, Mon 12:15  to 13:45
 - [*LSF link*](https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=333977&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)  
 
-##### Submit your assessments via Moodle:
+#### Submitting your assessments via Moodle:
 Area on Moodle to submit your assessments: [https://moodle.uni-heidelberg.de/mod/assign/view.php?id=447213](https://moodle.uni-heidelberg.de/mod/assign/view.php?id=447213)
 - Deadline 16.08.2021, 23:59 AOE time
 - (only! if any problems with Moodle, please send your assessment via email)

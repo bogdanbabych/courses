@@ -5,7 +5,7 @@
 - 0945MUE08211 SoSe 2021 Projektarbeit Forschung: Evaluation of Machine Translation systems in task-critical domains; MA, 2nd Semester, 6CP, Main seminar, Mon 14:15  to 15:45
 - [*LSF link*](https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=331157&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)  
 
-##### Submit your assessments via Moodle:
+#### Submitting your assessments:
 Area on Moodle to submit your assessments: [https://moodle.uni-heidelberg.de/mod/assign/view.php?id=447062](https://moodle.uni-heidelberg.de/mod/assign/view.php?id=447062)
 
 If you do not have the Heidelberg UniID (being from another institution), please submit your essay via this link: [https://heibox.uni-heidelberg.de/u/d/ade488d70a8448ffa40f/](https://heibox.uni-heidelberg.de/u/d/ade488d70a8448ffa40f/)
