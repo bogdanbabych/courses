@@ -90,3 +90,7 @@ Week13:
 - Video recording fo the class: [https://youtu.be/mvhe8fVYsm4](https://youtu.be/mvhe8fVYsm4)
 
 Week14:
+- no class, the week for preparation of the MT evaluation / error analysis project
+
+Week15:
+- Video recording of the class: [https://youtu.be/Pi3V2EQFaiM](https://youtu.be/Pi3V2EQFaiM)
