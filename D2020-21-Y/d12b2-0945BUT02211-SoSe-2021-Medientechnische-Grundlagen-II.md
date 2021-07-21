@@ -86,5 +86,3 @@ Week12:
 
 Week13:
 - Video recording of the class: [https://youtu.be/m2ia9BIEIi4](https://youtu.be/m2ia9BIEIi4)
-
-Week14:
