@@ -1,9 +1,20 @@
 ## Institute for Translation and Interpreting, Heidelberg University
 ### Winter Semester 2020-2021
-#### 0945BUE36202 Advanced topics in translation studies - Translation quality, critical evaluation and justification of translation decisions
+#### 0945BUE36222 Übersetzungswissenschaft: Advanced topics in translation studies - Translation quality, critical evaluation and justification of translation decisions
 - BA main seminar, 5th semester Übersetzungswissenschaft, BA, 5th Sem, 5 Credit Points, Main seminar, Tue.	10:15 to 11:45;
-- [*LSF*](https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=320587&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
-- [*Course description*](../teach2020-21-WS.md#0945BUE36202)
+- [*LSF*](https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=366395&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
+- *Course description*
+Understanding translation theory, core methods and approaches to translation studies is essential both for academic research and for practical translation work, in particular – for justifying own translation choices and decisions, as well as – critically evaluating, comparing or revising existing translations, for ensuring stylistic, genre and terminological consistency, adherence to clients’ corporate voice guidelines, for systematically evaluating translation quality, post-editing and revision efforts within large collaborative translation projects.
+
+The course will address advanced topics in theoretical translation studies, specifically focussing on methods and approaches for such critical analysis and justification of translation decisions. We will explore theoretical foundations of audience design, understanding text genre, style and register of the translated texts and their interaction with the purpose of translation. We will analyse how these textual parameters inform the choice of a translation strategy for a given text, its target audience and its purpose, and how such strategy selects specific translation methods and guides individual choices of target language resources and available translation equivalents. The course will also explore how corpus-based evidence can support such translation decisions, including the choice of suitable general-language and terminological translation equivalents.
+
+In the course the key theoretical concepts will be introduced during the first few weeks. Further classes will focus on student-lead presentations of chosen articles and chapters from the literature that explore specific topics.
+
+Learning outcomes: The students will be able to critically analyse translation decisions and justify the choice of a suitable translation strategy, in relation to the expectations of the target audience and the purpose of translation. They will be able to orient themselves in the current literature on the topic; to discuss open advanced questions in translation studies, such as the nature and possibility of translation equivalence, principles of evaluation translation quality, types and limitations of modern theoretical models of translation, the (im)possibility of a single ‘correct’ translation for a given text and the need of different ‘fit for purpose’ translations for different audiences, usage scenarios, historical epochs, societies and/or cultural environments; the pro-active role of the translator in cultural mediation and the concept of ‘translation’ as ‘intervention’.
+
+Assessment for the course: Student’s presentation for the class of a chosen article or chapter on a specific topic in translation studies (20% of the mark) and a translation commentary or an essay (up to 2000 words, due 3 weeks after the last class, 80% of the mark).
+
+Language of instruction: English
 
 ##### Virtual Seminar Room
 
