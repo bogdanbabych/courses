@@ -12,7 +12,7 @@ permalink: /
 [Home](index.md) | [Teaching](teaching.md) | [Research](research.md) | [Collaboration](collaboration.md) | [Techologies](techlabs.md) | [![Image](de_l_flag.png)](de_index.html) [![Image](uk_l_flag.png)](uk_index.html)
 
 
-#### 2020-2021 Winter Semester courses :
+#### 2022-2023 Winter Semester courses :
 - [0945BUE36222 Übersetzungswissenschaft: Advanced topics in translation studies - Translation quality, critical evaluation and justification of translation decisions](D2022-23-W/d21b5-0945BUE36222_Advanced_topics_translation.md)
 - [0945MUE8202 Research colloquium](D2020-21-W/d11m3-0945MUE8202_Research_colloquium.md)
 - [0945BUT02202 Technical foundations of professional translation I](D2020-21-W/d12b1-0945BUT02202_Technical_foundations.md)
